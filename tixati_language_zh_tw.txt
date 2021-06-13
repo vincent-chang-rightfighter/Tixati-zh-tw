@@ -1,0 +1,12016 @@
+
+
+// Tixati language template
+
+// Generated on 2021/05/17 02:46:52 PM
+
+// Put each key phrase on its own line, followed by the replacement text on
+// the next line, followed by one or more empty lines.
+
+// Key phrases must only contain words that start with an alphabetic character.
+// Key phrases can contain alphanumeric characters, hyphens (-), slashes (/), 
+// commas (,), periods (.), or spaces.
+// Key phrase matching is case-sensitive.
+
+// Replacement text can contain any characters.
+
+// For more information, see https://support.tixati.com/language
+
+
+
+// The following fields will be displayed in the language selection window:
+
+.title
+繁體中文(臺灣)
+
+.author
+MIN@TW
+
+.description
+發部於https://xiaomi.shxj.pw/
+
+
+
+/////// basic
+
+
+
+Cancel
+取消
+
+Close
+關閉
+
+Help
+幫助
+
+No
+不
+
+OK
+好
+
+Open
+開啟
+
+Quit
+離開
+
+Start
+開始
+
+Stop
+停止
+
+Yes
+是
+
+
+
+/////// common_buttons
+
+
+
+Add
+增加
+
+Clear
+清除
+
+Layout
+版面
+
+New
+新
+
+Properties
+屬性
+
+Refresh
+重新整理
+
+Remove
+移除
+
+Search
+搜尋
+
+
+
+/////// days
+
+
+
+Friday
+週五
+
+Monday
+週一
+
+Saturday
+週六
+
+Sunday
+週日
+
+Thursday
+週四
+
+Tuesday
+週二
+
+Wednesday
+週三
+
+
+
+/////// days_short
+
+
+
+Fri
+週五
+
+Mon
+週一
+
+Sat
+週六
+
+Sun
+週日
+
+Thu
+週四
+
+Tue
+週二
+
+Wed
+週三
+
+
+
+/////// main_buttons
+
+
+
+Bandwidth
+頻寬
+
+Channels
+頻道
+
+Home
+首頁
+
+RSS Feeds
+RSS訂閱
+
+Share
+分享
+
+Transfers
+傳輸
+
+
+
+/////// months
+
+
+
+April
+4月
+
+August
+8月
+
+December
+12月
+
+February
+2月
+
+January
+1月
+
+July
+7月
+
+June
+6月
+
+March
+3月
+
+May
+5月
+
+November
+11月
+
+October
+10月
+
+September
+9月
+
+
+
+/////// months_short
+
+
+
+Apr
+4月
+
+Aug
+8月
+
+Dec
+12月
+
+Feb
+2月
+
+Jan
+1月
+
+Jul
+7月
+
+Jun
+6月
+
+Mar
+3月
+
+Nov
+11月
+
+Oct
+10月
+
+Sep
+9月
+
+
+
+/////// time
+
+
+
+AM
+AM
+
+PM
+PM
+
+
+
+/////// countries
+
+
+
+Afghanistan
+阿富汗
+
+Aland Islands
+奧蘭群島
+
+Albania
+阿爾巴尼亞
+
+Algeria
+阿爾及利亞
+
+American Samoa
+美屬薩摩亞
+
+Andorra
+安道爾
+
+Angola
+安哥拉
+
+Anguilla
+安奎拉
+
+Antigua and Barbuda
+安地卡及巴布達
+
+Argentina
+阿根廷
+
+Armenia
+亞美尼亞
+
+Aruba
+阿魯巴
+
+Asia/Pacific Region
+亞太地區
+
+Australia
+澳洲
+
+Austria
+奧地利
+
+Azerbaijan
+亞塞拜然
+
+Bahamas
+巴哈馬
+
+Bahrain
+巴林
+
+Bangladesh
+孟加拉
+
+Barbados
+巴貝多
+
+Belarus
+白俄羅斯
+
+Belgium
+比利時
+
+Belize
+貝里斯
+
+Benin
+貝南
+
+Bermuda
+百慕達
+
+Bhutan
+不丹
+
+Bolivia
+玻利維亞
+
+Bonaire, Sint Eustatius and Saba
+荷蘭加勒比區
+
+Bosnia and Herzegovina
+波士尼亞與赫塞哥維納
+
+Botswana
+波札那
+
+Brazil
+巴西
+
+British Virgin Islands
+英屬維京群島
+
+Brunei
+汶萊
+
+Bulgaria
+保加利亞
+
+Burkina Faso
+布吉納法索
+
+Burundi
+蒲隆地
+
+Cambodia
+柬埔寨
+
+Cameroon
+喀麥隆
+
+Canada
+加拿大
+
+Cape Verde
+維德角
+
+Cayman Islands
+開曼群島
+
+Central African Republic
+中非共和國
+
+Chad
+查德
+
+Chagos Islands
+查戈斯群島
+
+Chile
+智利
+
+China
+中國
+
+Colombia
+哥倫比亞
+
+Comoros
+葛摩
+
+Congo
+剛果
+
+Cook Islands
+庫克群島
+
+Costa Rica
+哥斯大黎加
+
+Croatia
+克羅埃西亞
+
+Cuba
+古巴
+
+Cyprus
+賽普勒斯
+
+Czech Republic
+捷克
+
+Denmark
+丹麥
+
+Djibouti
+吉布地
+
+Dominica
+多米尼克
+
+Dominican Republic
+多明尼加共和國
+
+Ecuador
+厄瓜多
+
+Egypt
+埃及
+
+El Salvador
+薩爾瓦多
+
+Equatorial Guinea
+赤道幾內亞
+
+Eritrea
+厄利垂亞
+
+Estonia
+愛沙尼亞
+
+Ethiopia
+衣索比亞
+
+Europe
+歐洲
+
+Falkland Islands
+福克蘭群島
+
+Faroe Islands
+法羅群島
+
+Fiji
+斐濟
+
+Finland
+芬蘭
+
+France
+法國
+
+French Guiana
+法屬圭亞那
+
+French Polynesia
+法屬玻里尼西亞
+
+Gabon
+加彭
+
+Gambia
+甘比亞
+
+Georgia
+喬治亞
+
+Germany
+德國
+
+Ghana
+迦納
+
+Gibraltar
+直布羅陀
+
+Greece
+希臘
+
+Greenland
+格陵蘭
+
+Grenada
+格瑞那達
+
+Guadeloupe
+瓜地洛普
+
+Guam
+關島
+
+Guatemala
+瓜地馬拉
+
+Guernsey
+根息
+
+Guinea
+幾內亞
+
+Guinea-Bissau
+幾內亞比索
+
+Guyana
+蓋亞那
+
+Haiti
+海地
+
+Honduras
+宏都拉斯
+
+Hong Kong
+香港
+
+Hungary
+匈牙利
+
+Iceland
+冰島
+
+India
+印度
+
+Indonesia
+印尼
+
+Iran
+伊朗
+
+Iraq
+伊拉克
+
+Ireland
+愛爾蘭
+
+Isle of Man
+曼島
+
+Israel
+以色列
+
+Italy
+義大利
+
+Ivory Coast
+象牙海岸
+
+Jamaica
+牙買加
+
+Japan
+日本
+
+Jersey
+澤西島
+
+Jordan
+約旦
+
+Kazakhstan
+哈薩克
+
+Kenya
+肯亞
+
+Kiribati
+吉里巴斯
+
+Kuwait
+科威特
+
+Kyrgyzstan
+吉爾吉斯
+
+Laos
+寮國
+
+Latvia
+拉脫維亞
+
+Lebanon
+黎巴嫩
+
+Lesotho
+萊索托
+
+Liberia
+利比里亞
+
+Libya
+利比亞
+
+Liechtenstein
+列支敦士登
+
+Lithuania
+立陶宛
+
+Luxembourg
+盧森堡
+
+Macao
+澳門
+
+Macedonia
+馬其頓
+
+Madagascar
+馬達加斯加
+
+Malawi
+馬拉維
+
+Malaysia
+馬來西亞
+
+Maldives
+馬爾地夫
+
+Mali
+馬利
+
+Malta
+馬爾他
+
+Marshall Islands
+馬紹爾群島
+
+Martinique
+馬丁尼克
+
+Mauritania
+茅利塔尼亞
+
+Mauritius
+模里西斯
+
+Mayotte
+馬約特島
+
+Mexico
+墨西哥
+
+Micronesia
+密克羅尼西亞
+
+Moldova
+摩爾多瓦
+
+Monaco
+摩納哥
+
+Mongolia
+蒙古
+
+Montenegro
+蒙特內哥羅
+
+Montserrat
+蒙塞拉特
+
+Morocco
+摩洛哥
+
+Mozambique
+莫三比克
+
+Myanmar
+緬甸
+
+Namibia
+納米比亞
+
+Nauru
+諾魯
+
+Nepal
+尼泊爾
+
+Netherlands
+荷蘭
+
+New Caledonia
+新喀里多尼亞
+
+New Zealand
+紐西蘭
+
+Nicaragua
+尼加拉瓜
+
+Niger
+尼日
+
+Nigeria
+奈及利亞
+
+Niue
+紐埃島
+
+Norfolk Island
+諾福克島
+
+North Korea
+北韓
+
+Northern Mariana Islands
+北馬利安納群島
+
+Norway
+挪威
+
+Oman
+阿曼
+
+Pakistan
+巴基斯坦
+
+Palau
+帛琉
+
+Palestinian Territory
+巴勒斯坦領土
+
+Panama
+巴拿馬
+
+Papua New Guinea
+巴布亞紐幾內亞
+
+Paraguay
+巴拉圭
+
+Peru
+秘魯
+
+Philippines
+菲律賓
+
+Poland
+波蘭
+
+Portugal
+葡萄牙
+
+Puerto Rico
+波多黎各
+
+Qatar
+卡達
+
+Reunion
+留尼旺
+
+Romania
+羅馬尼亞
+
+Russia
+俄羅斯
+
+Rwanda
+盧安達
+
+Saint Barthelemy
+聖巴瑟米
+
+Saint Kitts and Nevis
+聖克里斯多福及尼維斯
+
+Saint Lucia
+聖露西亞
+
+Saint Martin
+聖馬丁島
+
+Saint Pierre and Miquelon
+聖皮埃與密克隆群島
+
+Saint Vincent and the Grenadines
+聖文森及格瑞那丁
+
+Samoa
+薩摩亞
+
+San Marino
+聖馬利諾
+
+Sao Tome and Principe
+聖多美普林西比
+
+Saudi Arabia
+沙烏地阿拉伯
+
+Senegal
+塞內加爾
+
+Serbia
+塞爾維亞
+
+Seychelles
+塞席爾
+
+Sierra Leone
+獅子山
+
+Singapore
+新加坡
+
+Sint Maarten
+荷屬聖馬丁
+
+Slovakia
+斯洛伐克
+
+Slovenia
+斯洛維尼亞
+
+Solomon Islands
+索羅門群島
+
+Somalia
+索馬利亞
+
+South Africa
+南非
+
+South Korea
+南韓
+
+South Sudan
+南蘇丹
+
+Spain
+西班牙
+
+Sri Lanka
+斯里蘭卡
+
+Sudan
+蘇丹
+
+Suriname
+蘇利南
+
+Swaziland
+史瓦帝尼王國
+
+Sweden
+瑞典
+
+Switzerland
+瑞士
+
+Syria
+敘利亞
+
+Taiwan
+臺灣
+
+Tajikistan
+塔吉克
+
+Tanzania
+坦尚尼亞
+
+Thailand
+泰國
+
+Timor-Leste
+東帝汶
+
+Togo
+多哥
+
+Tokelau
+托克勞群島
+
+Tonga
+東加
+
+Trinidad and Tobago
+千里達及托巴哥
+
+Tunisia
+突尼西亞
+
+Turkey
+土耳其
+
+Turkmenistan
+土庫曼
+
+Turks and Caicos
+土克斯及開科斯群島
+
+Tuvalu
+吐瓦魯
+
+U.S. Virgin Islands
+美國維爾京群島
+
+Uganda
+烏干達
+
+Ukraine
+烏克蘭
+
+United Arab Emirates
+阿拉伯聯合大公國
+
+United Kingdom
+英國
+
+United States
+美國
+
+Unknown
+未知
+
+Uruguay
+烏拉圭
+
+Uzbekistan
+烏茲別克
+
+Vanuatu
+Vanuatu
+
+Vatican City
+梵蒂岡
+
+Venezuela
+委內瑞拉
+
+Vietnam
+越南
+
+Wallis and Futuna
+瓦利斯和富圖那
+
+Yemen
+葉門
+
+Zambia
+尚比亞
+
+Zimbabwe
+辛巴威
+
+
+
+/////// file_errors
+
+
+
+access denied
+拒絕訪問
+
+access denied, another program may have this file open
+拒絕訪問,其他應用程式可能打開了這個文件
+
+corrupt data
+損壞的資料
+
+internal buffering error
+內部緩衝錯誤
+
+internal read error
+內部讀取錯誤
+
+missing data
+資料遺失
+
+path removed
+路徑已刪除
+
+unexpected end of file
+意外的文件結尾
+
+unknown error
+未知錯誤
+
+
+
+/////// socket_errors
+
+
+
+Address too long for proxy protocol
+
+
+Bad HTTP redirect
+
+
+Bad SSL data
+
+
+Bad reply after sending command
+
+
+Bad reply while fetching commands
+
+
+Circular HTTP redirect
+
+
+Connection dropped during SSL negotiation
+
+
+Connection failed from proxy
+
+
+Connection refused from proxy
+
+
+Connection reset
+
+
+Connection timed out
+
+
+Control URL not found in reply
+
+
+Could not access shell
+
+
+Could not find any router services
+
+
+Empty destination address
+
+
+HTTP chunked encoding error
+
+
+HTTP gzip encoding error
+
+
+HTTP proxy does not support CONNECT method
+
+
+HTTP request body overflow
+
+
+HTTP request header overflow
+
+
+HTTP request path contains ctrl chars
+
+
+HTTP request pipeline overflow
+
+
+HTTP response header overflow
+
+
+Host not found
+找不到主機
+
+Host unreachable from proxy
+
+
+Insufficient router resources
+
+
+Invalid address for proxy protocol
+
+
+Invalid control URL
+
+
+Invalid device URL
+
+
+Invalid gateway address
+
+
+Invalid port
+
+
+Invalid proxy reply
+
+
+Invalid response
+
+
+Line overflow
+
+
+Login/pass too long for proxy protocol
+
+
+Mapping not on same port
+
+
+Max hops exceeded
+
+
+Missing port number
+
+
+Network unreachable from proxy
+
+
+No SSL cert available
+
+
+Operation failed on router
+
+
+Proxy auth failed
+
+
+Proxy auth method not supported
+
+
+Proxy bind command failed
+
+
+Proxy bind relay IP protocol mismatch
+
+
+Proxy connection SSL error
+
+
+Proxy connection refused
+
+
+Proxy connection timed out
+
+
+Proxy could not resolve host name
+
+
+Proxy did not return remote IP
+
+
+Proxy dropped connection
+
+
+Proxy dropped connection while negotiating
+
+
+Proxy host not found
+
+
+Proxy host unreachable
+
+
+Proxy network unreachable
+
+
+Proxy permission denied
+
+
+Proxy protocol not supported
+
+
+Proxy refused UDP connection
+
+
+Proxy unsupported IP protocol
+
+
+Reply overflow after sending command
+
+
+Reply overflow while fetching commands
+
+
+SSL buffer overflow
+
+
+SSL error sending
+
+
+Session interrupted
+
+
+Socks
+
+
+TCP disabled in proxy settings
+
+
+Timed out
+超時
+
+Timed out in SSL negotiation
+
+
+Timed out resolving host
+
+
+Timed out resolving proxy host
+
+
+Timed out searching for commands
+
+
+Timed out sending HTTP response
+
+
+Timed out waiting for HTTP request
+
+
+Timed out waiting for HTTP response
+
+
+Too many HTTP redirects
+
+
+UDP disabled in proxy settings
+
+
+Unexpected HTTP request
+
+
+Unexpected HTTP response
+
+
+Unsupported HTTP content encoding
+
+
+Unsupported HTTP transfer encoding
+
+
+device not found
+
+
+proxy does not support IPv6
+
+
+
+
+/////// ui/!layout/main
+
+
+
+About Tixati
+關於 Tixati
+
+Above Normal
+高於一般
+
+Action
+
+
+Actions
+
+
+Active Transfers
+
+
+Add Category
+
+
+Add Preset
+
+
+Address
+地址
+
+Affected
+
+
+All
+全部
+
+All Feeds
+
+
+All RSS Feeds
+
+
+All Targets
+
+
+All Transfers
+
+
+Allow Drags To Status
+
+
+Allow System Suspend
+
+
+Allow System Suspend When All Downloads Complete
+
+
+Allow System Suspend When All Transfers Complete
+
+
+Announce
+
+
+Any
+
+
+Apply Locations To Existing Transfers
+
+
+Apply Preset
+
+
+Attached Peer Count
+
+
+Auto Limit
+自動限制
+
+Auto Limit Details
+
+
+Auto Limit Ping Chart
+
+
+Auto-Shutdown
+
+
+Auto-Start New Feeds
+
+
+Auto-Start New Transfers
+
+
+Auto-Startup
+自動啟動
+
+Backscroll Lines
+
+
+Backup All Config Files
+
+
+Bandwidth Quotas
+
+
+Basic events
+
+
+Basic status changes
+
+
+Below Normal
+低於一般
+
+Bottom Pane
+底部窗格
+
+Browse for new
+
+
+Browse for new MOC location
+
+
+Browse for new downloading location
+
+
+Browse for new location
+
+
+Browse for new seeding location
+
+
+Bytes In
+下載 Bytes
+
+Bytes Out
+上傳 Bytes
+
+Bytes Per Second In
+每秒下載 Bytes 
+
+Bytes Per Second Out
+每秒上傳 Bytes 
+
+CPU Usage
+CPU 使用率
+
+Cancel Download
+取消下載
+
+Cancel Move In Progress
+
+
+Cancel Pending Announce
+
+
+Cancel Refresh
+取消重新整理
+
+Categories
+類別
+
+Category
+類別
+
+Change Port
+更改埠
+
+Change location of selected files upon completion
+
+
+Channels Detail
+頻道詳情
+
+Check For Updates
+檢查更新
+
+Close Tixati
+關閉 Tixati
+
+Close Tixati Immediately
+立即關閉 Tixati
+
+Close Tixati When All Downloads Complete
+當所有下載完成時，關閉 Tixati
+
+Close Tixati When All Transfers Complete
+當所有傳輸完成時，關閉 Tixati
+
+Column
+
+
+Compact Buttons
+
+
+Complete Bytes
+
+
+Complete Percent
+
+
+Composite
+
+
+Connect
+連接
+
+Connection Pacer
+
+
+Constant Seeding
+
+
+Constant Seeds
+
+
+Context
+
+
+Controls on Right
+
+
+Copy
+複製
+
+Copy Actions
+
+
+Copy Magnet Link
+
+
+Copy Magnet Links
+
+
+Create New Task
+
+
+Cycle
+
+
+DHT
+
+
+DHT Detail
+
+
+Daily
+
+
+Day
+
+
+Days
+
+
+Decentralized Tracking
+
+
+Decrease
+
+
+Default
+預設
+
+Delay
+
+
+Delete
+刪除
+
+Description
+描述
+
+Detail Level
+
+
+Detailed
+詳情
+
+Details
+詳細資訊
+
+Diagnostics
+
+
+Directory Access
+
+
+Disconnect
+斷開連接
+
+Distributed Hash Table
+
+
+Donate
+贊助斗內
+
+Download
+下載
+
+Downloading Default
+
+
+Downloading Location
+
+
+Downloads
+下載
+
+Dropped
+
+
+Edit
+編輯
+
+Edit Presets
+
+
+Edit URLs
+
+
+Empty
+
+
+Episode
+
+
+Error
+
+
+Event Log
+事件日誌
+
+Exact
+
+
+Exclude
+
+
+Exclude Selected Categories
+
+
+Exclude Selected Feeds
+
+
+Exclude Selected Transfers
+
+
+Exit
+離開
+
+Feed Items
+
+
+File
+檔案
+
+File Access
+
+
+File Bytes Transferred
+
+
+File Operations Log
+
+
+File Path
+
+
+FileSys Wait Detail
+
+
+Files
+檔案
+
+Find Nodes
+
+
+Find and Replace
+
+
+Font Size
+
+
+Force Announce
+強制 Announce
+
+Force Check
+強制檢查
+
+Force Choke
+
+
+Force Reload
+強制重新載入
+
+Force Unchoke
+
+
+From Other Task
+
+
+Full Details
+全部詳細資訊
+
+Full Height
+
+
+GUI Detail
+GUI 細節
+
+Get Peers
+
+
+Hasher Detail
+
+
+Hidden In Tray
+
+
+Hide
+
+
+High
+
+
+Horizonal Text
+
+
+Hour
+
+
+Hours
+
+
+IP Filter
+
+
+IPFilter Detail
+
+
+IPv4 Addrs
+
+
+IPv4 Node Table
+
+
+IPv6
+
+
+IPv6 Node Table
+
+
+Icon
+
+
+Icon Only
+
+
+Icons
+
+
+Ignore
+
+
+Include all message details
+
+
+Include message errors
+
+
+Include search events
+
+
+Include table changes
+
+
+Include task details
+
+
+Incoming Bytes
+下載 Bytes
+
+Incoming Connections
+
+
+Incoming Packets
+
+
+Incoming Peer Connections
+
+
+Incoming Throttle
+
+
+Increase
+
+
+Item Added Time
+
+
+Last New Item
+
+
+License Agreement
+授權合約
+
+Link To Actions
+
+
+Local Files
+本機檔案
+
+Location
+位置
+
+Low
+
+
+Lower
+
+
+Main Toolbar Style
+
+
+Matches
+
+
+Memory Allocation Rate
+
+
+Memory State
+
+
+Merge
+合併
+
+Message
+訊息
+
+Minimized In Taskbar
+
+
+Minute
+
+
+Minutes
+
+
+Mixed Size Buttons
+
+
+Move Down
+
+
+Move On Complete
+
+
+Move Up
+
+
+Name
+名字
+
+NetBase Detail
+
+
+New Feeds
+
+
+New RSS Feeds
+
+
+New Task
+
+
+New Transfers
+
+
+No Move On Complete
+
+
+No logging
+
+
+Node ID
+
+
+Non-Constant Seeds
+
+
+Non-constant Seeds
+
+
+None
+
+
+Normal
+一般
+
+Notify On Complete
+
+
+OS Default
+系統預設
+
+Off
+
+
+Once
+
+
+Online Help
+線上幫助
+
+Open Folder
+開啟資料夾
+
+Open In Web Browser
+
+
+Open Web Link
+
+
+Optional Features
+
+
+Ordered
+
+
+Ordered View
+
+
+Originated Transactions
+
+
+Outgoing Bytes
+
+
+Outgoing Packets
+
+
+Outgoing Peer Connections
+
+
+Outgoing Seeding/Trading
+
+
+Outgoing Throttle
+
+
+Override default location of selected files or folders
+
+
+Peer
+用戶
+
+Peer DB
+
+
+Peer DB IDs
+
+
+Peer DB Peers
+
+
+Peers
+用戶
+
+Peers Detail
+
+
+Percent Complete
+
+
+Persist After Restart
+
+
+Phrase
+
+
+Piece Index
+
+
+Pieces
+分塊
+
+Pieces Detail
+
+
+Ping
+
+
+Ports Detail
+
+
+Priority
+優先度
+
+Processed Transactions
+
+
+Progress
+進度
+
+Queries
+
+
+Queue Next
+
+
+Queued Searches
+
+
+RSS
+
+
+RSS Detail
+
+
+RSS URLs
+
+
+Raise
+
+
+Randomize Incoming Port
+
+
+Receive Message
+
+
+Refresh Selected Feeds
+
+
+Regex
+
+
+Remote Seed Limit
+
+
+Removal is permanent after
+
+
+Remove And Delete Local Files
+移除並刪除檔案
+
+Remove Button Left-Click
+
+
+Remove Button Right-Click
+
+
+Remove Tracker
+
+
+Rename
+
+
+Reset
+
+
+Reset All Windows
+
+
+Reset Byte Counters
+
+
+Reset Match Counters
+
+
+Reset To Default
+
+
+Reset to default
+
+
+Responses
+
+
+Restart All Transfers
+
+
+Reverse
+
+
+Root Detail
+
+
+Run Now
+
+
+Run Task Now
+
+
+Running Searches
+
+
+Same Sized Buttons
+
+
+Same as DL Location
+
+
+Save
+
+
+Scheduler
+
+
+Search DHT
+
+
+Searches
+
+
+Second
+秒
+
+Seeding
+做種
+
+Seeding Allocation
+
+
+Seeding Default
+
+
+Seeding Location
+
+
+Seeds
+
+
+Select
+
+
+Selected Categories
+
+
+Selected Feeds
+
+
+Selected Files
+
+
+Selected Items
+
+
+Selected Peers
+
+
+Selected Trackers
+
+
+Selected Transfers
+
+
+Selected URLs
+
+
+Sequential
+
+
+Set
+
+
+Set Default
+設為預設
+
+Set Rate
+
+
+Set Target Ping RTT
+
+
+Settings
+設定
+
+Show
+
+
+Show Active Channel
+
+
+Show Buttons
+
+
+Show Menu
+
+
+Showing Normally
+
+
+Shut Down System
+
+
+Shut Down System Immediately
+
+
+Shut Down System When All Downloads Complete
+
+
+Shut Down System When All Transfers Complete
+
+
+Shutdown
+
+
+Sidebar
+
+
+Simple
+
+
+Skip Queue
+
+
+Small Icon
+
+
+Small Mixed Size Buttons
+
+
+Small Same Sized Buttons
+
+
+Sort By
+
+
+Sortable View
+
+
+Specific
+
+
+Specific RSS
+
+
+Split DL/Seed View
+
+
+Standard Layout
+
+
+Start Selected Categories
+
+
+Start Selected Feeds
+
+
+Start Selected Transfers
+
+
+Start/Stop
+
+
+Statistics
+
+
+Status
+狀態
+
+Status Filter
+
+
+Stop All Transfers
+
+
+Stop Checking
+
+
+Stop Selected Categories
+
+
+Stop Selected Feeds
+
+
+Stop Selected Transfers
+
+
+Stress Test
+
+
+Super Seeding
+
+
+Support Forum
+技術支援論壇
+
+Switch Language
+
+
+System Detail
+
+
+Tab View
+標籤視圖
+
+Table Buckets
+
+
+Table Nodes
+
+
+Targets Affected By Last Run
+
+
+Tasks Affecting New Feeds
+
+
+Tasks Affecting New Transfers
+
+
+Text
+文字
+
+Text Filter
+
+
+Text Only
+
+
+Time
+時間
+
+Tixati News
+Tixati 新聞
+
+Topic
+標題
+
+Total Bytes
+
+
+Total Bytes Transferred
+
+
+Tracker
+
+
+Trackers
+
+
+Trading Allocation
+
+
+Transfer Counts
+
+
+Transfer Submenu
+
+
+Transfers Detail
+
+
+Tree View
+
+
+Turn Off
+關閉
+
+Turn On
+開啟
+
+UPC Sockets Log
+
+
+UPC Sockets Monitor
+
+
+UPNP/NAT-PMP Log
+
+
+Ultra High
+最高
+
+Ultra Low
+最低
+
+Undo Last Remove
+取消最後移除
+
+Unignore
+
+
+Upload Ratio Limit
+
+
+Upload Time Limit
+
+
+Use Default Setting
+使用預設設定
+
+Very High
+很高
+
+Very Low
+很低
+
+WebUI Detail
+
+
+Weekly
+
+
+When All Downloads Complete
+當全部下載完成
+
+When All Transfers Complete
+當全部傳輸完成
+
+hour
+
+
+hours
+
+
+location
+
+
+minute
+
+
+minutes
+
+
+multiple
+
+
+no presets
+
+
+none
+
+
+on
+
+
+
+
+/////// ui/!layout/bw_view_pingchart
+
+
+
+Advanced
+進階
+
+Current
+現在的
+
+Limit Incoming kB/s
+限制下載 kB/s
+
+Limit Outgoing kB/s
+限制上傳 kB/s
+
+Ping Round Trip Time in Milliseconds
+Ping 往返時間（以毫秒為單位）
+
+Presets
+預設
+
+Trading
+交易
+
+
+
+/////// ui/!layout/bw_view_sidectrls
+
+
+
+Maximum kB/s
+最大 kB/s
+
+
+
+/////// ui/!layout/channel_list_view
+
+
+
+Alternate
+備用
+
+Announcing Managed Channels
+宣布託管頻道
+
+B/s In
+下載 B/s 
+
+B/s Out
+上傳 B/s
+
+Classic
+經典
+
+Clean
+
+
+Copy Link
+複製連結
+
+Create New
+新建
+
+Forum
+論壇
+
+Gather Channels
+收集頻道
+
+Gathering Channels
+收集頻道
+
+Join
+加入
+
+Leave
+離開
+
+Notifications
+通知
+
+Open Link
+開啟連結
+
+Opens a window with options to remove inactive channels
+
+
+Private Message
+私人訊息
+
+Remove Selected Channels
+刪除選定的頻道
+
+Reply
+回復
+
+Shared
+分享的
+
+Users
+使用者
+
+
+
+/////// ui/!layout/channel_tabs_view
+
+
+
+Add To Contacts
+增加到通訊錄
+
+Advertise
+廣告
+
+Appear in channel list when other users gather channels.
+
+
+Approve
+同意
+
+Banned
+禁止
+
+Basic
+基本的
+
+Basic status and errors
+基本狀態和錯誤
+
+Bitrate
+位元率
+
+Browse
+瀏覽
+
+Cancel Edit
+取消編輯
+
+Change
+改變
+
+Channel Secret Key
+頻道秘鑰
+
+Channel URL
+頻道網址
+
+Chat
+聊天
+
+Clean Outgoing Messages
+清除傳出訊息
+
+Client
+客戶
+
+Closes the
+關閉
+
+Collapse
+折疊
+
+Commands
+命令
+
+Connections
+連接
+
+Control
+控制
+
+Copy ID
+複製ID
+
+Copy Name
+複製名字
+
+Create New Stream
+新建串流
+
+Currently Streaming
+正在串流
+
+Directive
+指示
+
+Disapprove
+不同意
+
+Divides body segments.
+
+
+Ends the header portion.
+
+
+Enter
+輸入
+
+Expand
+擴大
+
+Flag
+旗幟
+
+From
+從
+
+Header End
+
+
+If something is changed, it will only invalidate text up to the nearest segment boundaries.
+
+
+Include peer events
+包括 peer 事件
+
+Information
+消息
+
+Last Reply From
+
+
+Last Reply Time
+
+
+Last Segment
+
+
+Link
+連接
+
+MOTD
+
+
+Manager
+管理人員
+
+Message Time
+留言時間
+
+Moderator
+版主
+
+Multiple
+多
+
+Offset
+偏移量
+
+Only the owner can generate the required
+
+
+Opens a window with options to remove old and/or orphaned outgoing messages and commands
+
+
+Operator
+操作員
+
+Options
+選項
+
+Outgoing message may not be currently visible to other users
+
+
+Owner
+
+
+Paste
+
+
+Play
+
+
+Play Stream
+
+
+Private message
+
+
+Public Key
+
+
+Quiet
+
+
+Read Message
+
+
+Remove Selected Outgoing Messages
+
+
+Replies
+
+
+Reply to a message that has been removed
+
+
+Save Changes
+
+
+Segment Divider
+
+
+Send Message
+
+
+Set Level
+
+
+Set as default
+設定為預設
+
+Set topic for channel.
+
+
+Silent
+
+
+Star
+
+
+Streaming
+
+
+Streams
+
+
+Subject
+
+
+Text after this line will be shown to a user in the chat view upon entering the channel.
+
+
+The header is distributed with much higher priority, but it is recommended to limit it to essential directives and minimal information.
+
+
+The limit to the header size is approximately
+
+
+This is a moderation command message
+
+
+This message has not been approved by a moderator
+
+
+This message no longer exists
+
+
+This message was disapproved by a moderator
+
+
+To
+
+
+Trusted
+
+
+Unapprove
+
+
+Up to
+
+
+User
+
+
+User Name
+
+
+User Promotion
+
+
+User Restriction
+
+
+VIP
+
+
+View
+
+
+Web Link
+
+
+avg interval between broadcasts, in
+
+
+between basic ping broadcast
+
+
+between info broadcasts
+
+
+between share broadcasts for normal,trusted,vip,star
+
+
+directive
+
+
+ids that are always allowed to stream, comma separated
+
+
+level
+
+
+level, minimum user access level to have messages approved by default
+
+
+of a second
+
+
+seconds
+
+
+segments are allowed.
+
+
+stream bytes per
+
+
+to match, which is auto-added upon info save.
+
+
+user access level to stream
+
+
+user id
+
+
+
+
+/////// ui/!layout/channel_view
+
+
+
+Bytes
+
+
+Descriptions
+
+
+Match
+
+
+Network
+
+
+Not all users were searched.
+
+
+Search Result Overflow
+
+
+Web Links
+
+
+You may get better results with more specific terms.
+
+
+
+
+/////// ui/!layout/channels_alt_view
+
+
+
+Contacts
+聯絡人
+
+List
+
+
+
+
+/////// ui/!layout/channels_contacts_view
+
+
+
+Change Key
+
+
+Change Name
+
+
+Contact
+
+
+Dock
+
+
+Float
+
+
+Remove Selected Contacts
+
+
+
+
+/////// ui/!layout/channels_main_view
+
+
+
+Window
+
+
+
+
+/////// ui/!layout/channels_search_view
+
+
+
+Click the Channels button at the top of this window and gather/join some channels.
+
+
+It may take several minutes for online channels to accumulate searchable links.
+
+
+Match Descriptions
+
+
+No Searchable Channels
+
+
+Not all channels/users were searched.
+
+
+Shared Transfer Links
+
+
+Shared Web Links
+
+
+
+
+/////// ui/!layout/channels_share_view
+
+
+
+Insert At Bottom
+
+
+Insert At Top
+
+
+Mirror
+
+
+Position
+
+
+
+
+/////// ui/!layout/xfer_view_buttons_compact
+
+
+
+Add New Transfer
+新增傳輸
+
+Clear Filter
+清除過濾器
+
+Filter
+過濾器
+
+Show Downloads
+顯示下載
+
+Show Offline Downloads
+顯示已離線的下載
+
+Show Offline Seeds
+顯示已離線的種子
+
+Show Queued Downloads
+顯示排隊的下載
+
+Show Running Downloads
+顯示正在執行的下載
+
+Show Running Seeds
+顯示正在執行的種子
+
+Show Seeds
+顯示種子
+
+Show Standby Seeds
+顯示待用的種子
+
+
+
+/////// ui/!layout/xfer_view_buttons_normal
+
+
+
+Offline
+離線
+
+Queued
+排隊
+
+Running
+正在執行
+
+Standby
+待用
+
+
+
+/////// ui/!layout/xferlayout_view_double_bottom
+
+
+
+Abs Complete
+
+
+Abs Remaining
+
+
+Abs Total
+
+
+Absolute Bytes
+絕對 Bytes
+
+B/s IN
+下載 B/s
+
+B/s OUT
+上傳 B/s
+
+Bytes DL
+Bytes 下載
+
+Bytes UL
+Bytes 上傳
+
+Complete
+已完成
+
+Completed
+完全
+
+Created
+已生成
+
+Last Activity
+最近活動
+
+Ratio
+比例
+
+Remaining
+剩餘
+
+Seeding Limit
+做種限制
+
+Seeding Time
+做種時間
+
+Source
+來源
+
+Stop Ratio
+停止比例
+
+Time Left
+剩餘時間
+
+Total
+全部
+
+
+
+/////// ui/!layout/xferlayout_view_tabs_bottom
+
+
+
+Comments
+評論
+
+
+
+/////// ui/!layout/xferprompts_locmoc_editablepaths
+
+
+
+Local Files Location
+本地檔案位置
+
+
+
+/////// ui/!layout/xfertab_bandwidth
+
+
+
+File Data
+
+
+Protocol
+協議
+
+
+
+/////// ui/!layout/xfertab_details
+
+
+
+Download Time
+下載時間
+
+Local Avg. Download B/s
+本機平均下載 B/s
+
+Local Avg. Upload B/s
+本機平均上傳 B/s
+
+Remaining Time
+剩餘時間
+
+Swarm Avg. Download B/s
+
+
+Upload Ratio
+上傳比例
+
+Upload Time
+上傳時間
+
+
+
+/////// ui/!layout/xfertab_eventlog
+
+
+
+Include file events
+包含檔案事件
+
+Include piece events
+包含 piece
+
+Include tracker events
+包含 tracker 事件
+
+
+
+/////// ui/!layout/xfertab_options
+
+
+
+All peers stay unchoked
+
+
+Always seed and do not consume a seeding slot
+
+
+Base
+
+
+Disabled in settings
+
+
+Force rarest-first distribution of pieces
+
+
+Forced DHT Search
+
+
+Hash-ID
+
+
+Inactive
+
+
+Local Peer Discovery
+
+
+Local Peer ID
+
+
+Magnet Links
+
+
+Manually Add Peer
+
+
+Maximum peer connections
+
+
+Meta-Info
+
+
+Meta-info File
+
+
+Move On Completion
+
+
+PEX Peer Exchange
+
+
+Port
+埠
+
+Search DHT Now
+
+
+Search and announce
+搜尋和公告
+
+Search only
+
+
+Search/Announce Mode
+搜尋/公告 模式
+
+Send And Receive LPD Messages
+
+
+Send And Receive PEX Messages
+
+
+Standby-queue if no seeding slots are available
+
+
+Stop on remote seed count above
+
+
+Stop on upload minutes above
+
+
+Stop on upload ratio above
+
+
+Upload Maximization
+
+
+Upon completion, move to this location
+
+
+Use default ID
+使用預設 ID
+
+Use default setting
+使用預設設定
+
+Web Seed URL
+
+
+recommended
+
+
+
+
+/////// ui/!layout/xfertab_peers
+
+
+
+Rem B/s
+
+
+
+
+/////// ui/!layout/xfertab_pieces
+
+
+
+Index
+索引
+
+
+
+/////// ui/!layout/xfertab_trackers
+
+
+
+Group
+組
+
+URL
+連結
+
+
+
+/////// ui/!layout/rss_tabs_view
+
+
+
+Allow items without episode or date numbers
+
+
+Auto-Start
+
+
+Auto-download item KB
+
+
+Auto-download item KiB
+
+
+Auto-download item file count limit
+
+
+Auto-download item kB
+
+
+Automatically download items
+
+
+Created Transfer Options
+
+
+Downloaded Files Location
+
+
+Episode Range
+
+
+Feed Processing Options
+
+
+Feed URLs
+
+
+Include item creation
+
+
+Include update details
+
+
+Include update summary
+
+
+Initial Update
+
+
+Item history size
+
+
+Items In Feed
+
+
+Items Out Of Feed
+
+
+Last Update
+
+
+Magnet-link items eligible for auto-download
+
+
+Max
+
+
+Maximum auto-downloads for same episode
+
+
+Min
+
+
+Minimum feed update interval
+
+
+Never
+
+
+New Items Today
+
+
+New Items Yesterday
+
+
+New Items in Last
+
+
+No limit
+
+
+Normal Update
+
+
+Published Items
+
+
+Total Items
+
+
+day
+
+
+days
+
+
+min
+
+
+
+
+/////// ui/!layout/autothrottle
+
+
+
+Add a new rule, using selected rule as template.
+
+
+Adjust Based On Average Ping
+
+
+Alternate Rules
+
+
+Auto Bandwidth Limiter
+
+
+Current Ping RTT ms
+
+
+Destination Host
+
+
+Edit selected rule.
+
+
+Gate
+
+
+Gather up to
+
+
+High Ping RTT ms
+
+
+Higher
+
+
+Higher Ping RTT
+
+
+IPs
+
+
+IPv4 only
+
+
+IPv4 preferred
+
+
+IPv6 only
+
+
+IPv6 preferred
+
+
+Include pings
+
+
+Include throttle changes
+
+
+Include trace details
+
+
+Incoming
+
+
+Load
+
+
+Load from a
+
+
+Local source IP address
+
+
+Longer Adjustment Intervals
+
+
+Low Ping RTT ms
+
+
+Lower Ping RTT
+
+
+Maximum
+
+
+Minimum
+
+
+Minimum Outgoing kB/s
+
+
+Much Higher
+
+
+Narrower Ping Tolerances
+
+
+Network mode
+
+
+Outgoing
+上傳
+
+Ping Setup
+
+
+Ping exact host
+
+
+Ping first IP from traceroute
+
+
+Remove selected rules.
+
+
+Reset To Defaults
+
+
+Reset rules to system defaults.
+
+
+Restart Pinging
+
+
+Rules
+
+
+Save to a
+
+
+Skip first
+
+
+Skip private IPs
+
+
+Standard Rules
+
+
+Target Ping RTT Milliseconds
+
+
+Throttle
+
+
+Throttle Ratio
+
+
+Wait
+
+
+leave blank for default
+
+
+seconds between pings
+
+
+
+
+/////// ui/!layout/bw_profiles
+
+
+
+Bandwidth Presets
+
+
+Default For Downloading
+
+
+Default For Seeding
+
+
+Reset To Current
+
+
+
+
+/////// ui/!layout/bw_quota
+
+
+
+Clear Warning
+
+
+Next Reset
+
+
+On
+
+
+On Limit Reached
+
+
+On Limit Reset
+
+
+Quotas
+
+
+Remaining Bytes
+
+
+Remove Selected Items
+
+
+Reset Selected Items
+
+
+Restart Channels
+
+
+Restart DHT
+
+
+Restart Feeds
+
+
+Restart Transfers
+
+
+Select Bandwidth Preset
+
+
+Set Auto Limit
+
+
+Set Incoming KB/s Limit
+
+
+Set Outgoing KB/s Limit
+
+
+Show Warning
+
+
+Stop Channels
+
+
+Stop DHT
+
+
+Stop Feeds
+
+
+Stop Transfers
+
+
+Test Selected Items
+
+
+
+
+/////// ui/!layout/categoryprop
+
+
+
+Append a magnet link to this text file when a new transfer starts
+
+
+Append a magnet link to this text file when a transfer completes
+
+
+Capture
+
+
+Delete file immediately after loading
+
+
+File Auto-Select Preset
+
+
+Format
+
+
+Incoming B/s
+
+
+Load magnet links from
+
+
+Outgoing B/s
+
+
+Override new transfer default
+
+
+Save a
+
+
+Standby Seeds
+
+
+Titles
+
+
+Total Transfers
+
+
+Transfer Complete
+
+
+Transfer Load
+
+
+and
+
+
+file in this folder when a new transfer starts
+
+
+file in this folder when a transfer completes
+
+
+files
+檔案
+
+files created in or moved to this folder
+
+
+or
+
+
+start with
+
+
+to include time
+
+
+
+
+/////// ui/!layout/channel_member_prop
+
+
+
+Find
+
+
+
+
+/////// ui/!layout/channel_member_recvmsg
+
+
+
+Read Next
+
+
+
+
+/////// ui/!layout/channel_member_sendmsg
+
+
+
+Ctrl-Enter
+
+
+Send
+
+
+
+
+/////// ui/!layout/channel_streamlist
+
+
+
+Audio/Video File
+
+
+B/s
+
+
+Clear List
+
+
+Display Title
+
+
+Duration
+
+
+Embedded ID3
+
+
+File Name
+
+
+Folder
+資料夾
+
+Intermission
+
+
+Pause the stream for a specified duration
+
+
+Previous Item's Title
+
+
+Randomize Order
+
+
+Refresh All
+
+
+Relay any live HTTP stream
+
+
+Repeat List Continuously
+
+
+Resume After Channel Restart
+
+
+Save Playlist
+
+
+Stop All
+
+
+Stop Streaming
+
+
+Stream
+
+
+Stream From Offset
+
+
+Stream From Top
+
+
+Stream ICY-MetaData
+
+
+Stream Selected Item
+
+
+Stream any
+
+
+Streaming HTTP Connection
+
+
+Title
+
+
+audio or
+
+
+video file at its encoded bitrate
+
+
+
+
+/////// ui/!layout/channel_streams
+
+
+
+Size
+
+
+
+
+/////// ui/!layout/chmsg_add
+
+
+
+New messages in this channel must be manually approved by a moderator
+
+
+Private User Message
+
+
+Public Message
+
+
+This channel is offline and your message will not be visible until it is started
+
+
+Your message may not be visible to other users due to insufficient permission to share in channel
+
+
+Your message may not be visible to other users in this channel due to insufficient remaining share capacity
+
+
+message can not be added until the channel is online
+
+
+
+
+/////// ui/!layout/chmsg_add_sel_users
+
+
+
+Select Target Users
+
+
+
+
+/////// ui/!layout/config
+
+
+
+Accept
+接受
+
+Accept Matches
+
+
+Accept Non-Matches
+
+
+Accept either
+
+
+Activate Channels Feature
+
+
+Activate IP Filter Feature
+
+
+Activate RSS Feature
+
+
+Activate Scheduler Feature
+
+
+Activate Web Interface
+
+
+Activate main window when new transfers are loaded
+
+
+Adjust close button action, view switching, property window behavior, and download completion notification
+
+
+Adjust individual colors within the current scheme
+
+
+Advanced Socket Options
+
+
+Advanced options for the allocation and handling of local files, including post-processing via external commands
+
+
+All groups
+
+
+Allow UDP tracker connections
+
+
+Allow deletion of created transfer local files
+
+
+Applies To
+
+
+Auto Start
+
+
+Auto Torrent Downloader
+
+
+Auto node ID change interval
+
+
+Auto node ID change only on startup
+
+
+Auto-Deprioritize Bad Piece Threshold
+
+
+Auto-Deprioritize Bandwidth
+
+
+Auto-Ignore Bad Piece Threshold
+
+
+Auto-Reload
+
+
+Auto-Start Delay
+自動啟動延遲
+
+Auto-Start Options
+
+
+Auto-Start Tixati With Computer
+開機自動啟動 Tixati
+
+Auto-download KB
+
+
+Auto-download KiB
+
+
+Auto-download items
+
+
+Auto-download kB
+
+
+Auto-manage slots
+
+
+Auto-select files in new transfers
+
+
+Auto-start new item downloads
+
+
+Automatic reload interval
+
+
+Automatically open or save
+
+
+Backscroll Size
+
+
+Bandwidth Priority
+
+
+Batching
+
+
+Behavior
+
+
+Buttons
+
+
+Bytes In Charts
+
+
+Change Now
+
+
+Change peer connection encryption preferences, maximum connections per transfer, maximum concurrent connection attemps, IPv6 mode, and local IP address binding
+
+
+Change queuing parameters, auto start/stop preferences, and other miscellaneous options
+
+
+Change the location where downloaded files are stored while in progress and on completion
+
+
+Change the port numbers used for peer connections and DHT messages
+
+
+Change the way numbers are formatted and other minor output options
+
+
+Changing these settings is NOT recommended unless you're an expert user.
+
+
+Channel Stream Playback
+
+
+Check For Update Now
+
+
+Check Now
+
+
+Check On Startup
+
+
+Check for new Tixati version every week
+
+
+Client Filter
+
+
+Color
+
+
+Color Scheme
+
+
+Completely Exit Program
+完整退出程式
+
+Configure
+
+
+Confirm Delete
+
+
+Confirm Delete/Trash
+
+
+Confirm Trash
+
+
+Control the announcing of multi-tracker torrents, and set filters to skip unwanted trackers
+
+
+Control the appearance of icons and text within menus, buttons, and toolbars
+
+
+Create Examples
+
+
+Creates a transfer
+
+
+Custom
+
+
+Custom Colors
+
+
+Customized List
+
+
+DHT Bootstrap Nodes
+
+
+DHT mode for normal transfers
+
+
+DHT mode for trackerless transfers
+
+
+Dark Background
+
+
+Decentralized Tracker
+
+
+Decimal Character
+
+
+Default Channel Options
+
+
+Default Download Location
+
+
+Direct To Trash
+
+
+Direct reads
+
+
+Directly move file/folder if possible when changing location
+
+
+Disable
+
+
+Disable TCP
+
+
+Disable UDP
+
+
+Display Join/Leave Notifications
+
+
+Display Timestamps
+
+
+Display encrypted
+
+
+Display full paths for all location shortcuts
+
+
+Double-click actions
+
+
+Download slots
+
+
+Drop Matches
+
+
+Drop Non-Matches
+
+
+Dual conn attempt non-pref proto skip minimum margin
+
+
+Duplicate transfer prompt
+
+
+Encrypted only
+
+
+Encrypted preferred
+
+
+Error on missing downloaded files
+
+
+Event Logging
+
+
+Every
+
+
+Every Day
+
+
+Every Hour
+
+
+Every Week
+
+
+Export Configuration To File
+
+
+Fast Allocate
+
+
+File Only
+
+
+File allocation
+
+
+File completion shell commands
+
+
+File delete method
+
+
+First working group
+
+
+Font
+
+
+Fonts
+
+
+Force node ID change
+
+
+Forward Port On Router With UPNP
+
+
+Full Pre-Write
+
+
+Fully independent property windows
+
+
+General
+
+
+Gi
+
+
+HTML Templates
+
+
+HTTP
+
+
+Hidden
+
+
+Hide In System Tray
+
+
+Horizontal Text
+
+
+If you have a firewall or broadband router attached to your system, you may want to use port-forwarding for optimal performance.
+
+
+Import Configuration From File
+
+
+Import/Export
+
+
+Include block activity
+
+
+Include local in swarm bitfield and availability display
+
+
+Include status changes
+
+
+Include warnings
+
+
+Incoming Peer Connection Encryption
+
+
+Incoming Peer Connection Protocol
+
+
+Incoming Peers
+
+
+Incoming Ports
+
+
+Incomplete Piece Storage Location
+
+
+Incomplete file name format
+
+
+Individual tracker options
+
+
+Initial
+
+
+Interface IPs For Incoming Web Connections
+
+
+It gives a more consistant look with other programs.
+
+
+It is more suitable for use in a dark environment and is easy on the eyes.
+
+
+Item
+
+
+KB blocks
+
+
+Ki
+
+
+Largest Unit
+
+
+Last
+
+
+Level
+
+
+Light Background
+
+
+Load Preset
+
+
+Load default color schemes or custom
+
+
+Local IPv4 address or interface
+
+
+Local IPv6 address or interface
+
+
+Local Peers
+
+
+Location shortcuts in transfer context menu
+
+
+Locations
+
+
+Log detailed tracker messages
+
+
+Log disk read-cache details
+
+
+Login
+
+
+MB blocks
+
+
+Magnet link formats for transfer popup menu
+
+
+Magnet-links eligible for auto-download
+
+
+Main log backscroll size
+
+
+Main window close button action
+
+
+Main window minimize button action
+
+
+Maximum concurrent outgoing TCP connection attempts
+
+
+Maximum concurrent outgoing UDP connection attempts
+
+
+Maximum peer connections per seed/download
+
+
+Maximum simultaneous searches
+
+
+Menus
+
+
+Mi
+
+
+Minimize To Taskbar
+
+
+Month
+
+
+Move individual files immediately upon completion
+
+
+Multi-tracker announce mode
+
+
+NAT-PMP
+
+
+NAT-PMP to forward port on router
+
+
+New Feed Default Processing Options
+
+
+New Filter Default Options
+
+
+New Scheduler Task Default Options
+
+
+No Proxy
+
+
+Non-default settings may slow your download performance significantly or cause other serious problems.
+
+
+Numbers
+
+
+Numbers In Charts
+
+
+OS Default Colors
+
+
+Omit
+
+
+On some monitors this is easier to read.
+
+
+Opens a decentralized sharing channel
+
+
+Outgoing Peer Connection Encryption
+
+
+Outgoing Peer Connection Protocol
+
+
+Outgoing Peers
+
+
+Output Formatting
+
+
+Password
+
+
+Peer B/s Display
+
+
+Peer In/Out Bytes Display
+
+
+Peer connect/login timeouts
+
+
+Peer read caching
+
+
+Placeholders
+
+
+Predictive
+
+
+Press F1 for more information.
+
+
+Prompt
+
+
+Prompt User To Hide/Exit
+
+
+Proxy
+
+
+Queuing
+
+
+Raised Unit Decimal Places
+
+
+Random port interval
+
+
+Random port range
+
+
+Really Simple Syndication
+
+
+Recently Selected Folders
+
+
+Recycle unused download slots for uploads
+
+
+Recycle unused upload slots for downloads
+
+
+Redundant hash-check on completion
+
+
+Reset All
+
+
+Reset All Objects
+
+
+Revert
+
+
+Revert associations on exit in portable mode
+
+
+Run
+
+
+SOCKS4
+
+
+SOCKS5
+
+
+Save Preset
+
+
+Save a magnet link to a text file when transfers start or complete
+
+
+Scheduler Events
+
+
+Scheduler Options In Context Menus
+
+
+Search Only
+
+
+Select a category
+
+
+Send/Receive
+
+
+Separator
+
+
+Sequential download options
+
+
+Shell Integration
+
+
+Show icon in system tray
+
+
+Skip
+
+
+Skip last-write time checks
+
+
+Sparse
+
+
+Start new feeds
+
+
+Start new transfers
+
+
+Start previously running channels on program startup
+
+
+Start previously running feeds on program startup
+
+
+Start previously running transfers on program startup
+
+
+Startup DHT mode
+
+
+Startup on transfers page
+
+
+Status Bar
+
+
+Stop constant seeds on upload minutes above
+
+
+Stop constant seeds on upload ratio above
+
+
+Stop created seeds on upload minutes above
+
+
+Stop created seeds on upload ratio above
+
+
+Stop seeding on upload minutes above
+
+
+Stop seeding on upload ratio above
+
+
+Strong batching
+
+
+Strong predictive
+
+
+TCP
+
+
+TCP Default
+
+
+TCP Only
+
+
+TCP Peers
+
+
+TCP Port For Incoming Web Connections
+
+
+TCP Trackers
+
+
+TCP/UDP port for peer connections and messages
+
+
+Tasks Missed Between Sessions
+
+
+Test In Web Browser
+
+
+These files can be used to save your customized color schemes, or to load color schemes that other users have created.
+
+
+This scheme has bright text on a dark background.
+
+
+This scheme has dark text on a light background.
+
+
+This scheme uses the default operating system colors for most items.
+
+
+Toolbars
+
+
+Tooltips
+
+
+Transfer B/s Display
+
+
+Transfer loading priority/location prompt
+
+
+Transfers/Feeds
+
+
+Type
+
+
+UDP
+
+
+UDP Default
+
+
+UDP Only
+
+
+UDP Peers And DHT
+
+
+UDP Trackers
+
+
+Unencrypted only
+
+
+Unencrypted preferred
+
+
+Update Check
+
+
+Upload slots
+
+
+Uploads
+
+
+Use
+
+
+Use Default
+
+
+Use HTTPS To Secure Connections
+
+
+Use SSL for control connection
+
+
+Use SSL to connect to proxy
+
+
+Use This Feature Carefully
+
+
+Use UPNP
+
+
+Use a SOCKS4/5 or HTTP proxy server for outgoing tracker and/or peer connections
+
+
+Use polling method to watch folders
+
+
+Use proxy to resolve names
+
+
+User Authentication
+
+
+User Interface
+
+
+Using a proxy to resolve names is not recommended for UDP because it can be slow and very few proxy servers support it.
+
+
+Visible
+
+
+Web Interface
+
+
+Week
+
+
+Weekly Days
+
+
+Weeks
+
+
+Widget Styles
+
+
+You can automatically backup your configuration on a regular basis by using the scheduler.
+
+
+You could potentially clear all your settings and transfers if you make a mistake.
+
+
+applied first time channel is started
+
+
+comma
+
+
+default
+預設
+
+file association
+
+
+files immediately after loading from this folder
+
+
+files when transfers start or complete
+
+
+from Ki/Mi/Gi/Ti unit labels
+
+
+in unit labels
+
+
+incoming flags with peer address
+
+
+instead of
+
+
+link association
+
+
+not recommended
+
+
+of last
+
+
+partial seeding
+
+
+period
+
+
+slower but more reliable
+
+
+space
+
+
+to HTTP trackers when
+
+
+username/password on each line
+
+
+week
+
+
+weeks
+
+
+
+
+/////// ui/!layout/delayed_startup
+
+
+
+Delayed
+延遲
+
+Delayed Startup
+延遲啟動
+
+Tixati
+
+
+
+
+/////// ui/!layout/loadingprob
+
+
+
+Delete config file and start fresh
+
+
+Do nothing and try again
+
+
+Error Loading Config File
+
+
+Leave copy of broken config file on desktop
+
+
+Make sure the disk is not full.
+
+
+Please select an action
+
+
+Problem Starting
+
+
+Revert to backup of last successfully loaded config file
+
+
+The config file could not be read from disk or is corrupt.
+
+
+
+
+/////// ui/!layout/addipfilter
+
+
+
+Add IP Filter
+
+
+IP List Source HTTP URL or Local File Path or
+
+
+Interval between automatic reloads from source
+
+
+
+
+/////// ui/!layout/addmrusel
+
+
+
+New Folder
+新增資料夾
+
+Select Folder For New Shortcut
+
+
+
+
+/////// ui/!layout/addrssfeed
+
+
+
+Add RSS Feed
+ㄗ
+
+Feed Parameters
+
+
+Item Title Filter
+
+
+put each on a separate line
+
+
+
+
+/////// ui/!layout/addscheduleraction_bw_in_on
+
+
+
+Add Scheduler Action
+
+
+Set incoming bandwidth limit to
+
+
+
+
+/////// ui/!layout/addscheduleraction_bw_out_on
+
+
+
+Set outgoing bandwidth limit to
+
+
+
+
+/////// ui/!layout/addscheduleraction_bw_out_s_on
+
+
+
+Set outgoing seeding bandwidth allocation to
+
+
+
+
+/////// ui/!layout/addscheduleraction_bw_out_t_on
+
+
+
+Set outgoing trading bandwidth allocation to
+
+
+
+
+/////// ui/!layout/addscheduleraction_bw_ping_on
+
+
+
+Set Auto Limit target ping RTT to
+
+
+
+
+/////// ui/!layout/addschedulertask
+
+
+
+Add Scheduler Task
+
+
+
+
+/////// ui/!layout/addschedulertask_chanmsg
+
+
+
+Add Channel Message To Scheduler Task
+
+
+Enter one or more messages on separate lines.
+
+
+Set message delay with
+
+
+
+
+/////// ui/!layout/addschedulertask_chantopic
+
+
+
+Add Channel Topic To Scheduler Task
+
+
+
+
+/////// ui/!layout/addschedulertask_nodays_warn
+
+
+
+No days selected
+
+
+You need to select at least one day for this weekly task or switch to once/daily cycle.
+
+
+
+
+/////// ui/!layout/addschedulertask_noname_warn
+
+
+
+Name is blank
+
+
+You need to enter a name for the new task.
+
+
+
+
+/////// ui/!layout/addschedulertask_speccat
+
+
+
+Add Category To Scheduler Task
+
+
+
+
+/////// ui/!layout/addschedulertask_specchannel
+
+
+
+Add Channel To Scheduler Task
+
+
+
+
+/////// ui/!layout/addschedulertask_specfeed
+
+
+
+Add Feed To Scheduler Task
+
+
+
+
+/////// ui/!layout/addschedulertask_specxfer
+
+
+
+Add Transfer To Scheduler Task
+
+
+
+
+/////// ui/!layout/addtracker
+
+
+
+Add Tracker
+
+
+Put each tracker URL on a separate line.
+
+
+Separate groups with a blank line.
+
+
+Tracker URLs
+
+
+
+
+/////// ui/!layout/assocok
+
+
+
+Associated with
+
+
+File Association
+
+
+Tixati is the default
+
+
+file handler
+
+
+
+
+/////// ui/!layout/assocprompt
+
+
+
+Always check on startup
+
+
+Associate with
+
+
+Set Tixati as the default
+
+
+Tixati is not the default
+
+
+
+
+/////// ui/!layout/autosavemetadirsel
+
+
+
+Select Folder To Save Files
+
+
+
+
+/////// ui/!layout/autosel_preset_add
+
+
+
+Preset Name
+
+
+
+
+/////// ui/!layout/binderror
+
+
+
+Change Port Number
+
+
+Could not listen for incoming connections
+
+
+Edit Connection Settings
+
+
+Retry
+
+
+
+
+/////// ui/!layout/bw_outpropcontrol
+
+
+
+Reset to Default
+
+
+Select the percentage of outgoing bandwidth prioritized for trading and/or seeding.
+
+
+
+
+/////// ui/!layout/bw_profile_add
+
+
+
+Add Bandwidth Preset
+
+
+Auto Limit Minimum and Ratio
+
+
+Auto Limit On/Off
+
+
+Auto Limit Ping Setup
+
+
+Auto Limit Rules
+
+
+Auto Limit Target RTT
+
+
+Incoming Limit
+
+
+Outgoing Limit
+
+
+Outgoing Trading/Seeding
+
+
+Save Current State Of
+
+
+
+
+/////// ui/!layout/bw_profile_edit
+
+
+
+Edit Bandwidth Preset
+
+
+Reset All States To Current
+
+
+Store State Of
+
+
+
+
+/////// ui/!layout/bw_quota_add
+
+
+
+Add Bandwidth Quota
+
+
+Date
+
+
+Effective Hours
+
+
+Hourly
+
+
+In
+
+
+Maximum Data Transfered
+
+
+Monthly
+
+
+Out
+
+
+use shift key to toggle range
+
+
+
+
+/////// ui/!layout/bw_quota_warn
+
+
+
+Bandwidth Quota Exceeded
+
+
+
+
+/////// ui/!layout/cat_dlloc_foldersel
+
+
+
+Select Downloading Location
+
+
+
+
+/////// ui/!layout/cat_sdloc_foldersel
+
+
+
+Select Seeding Location
+
+
+
+
+/////// ui/!layout/category_add_full
+
+
+
+Downloading
+下載中
+
+Standby Seed
+
+
+Uncategorized
+
+
+
+
+/////// ui/!layout/channel_create
+
+
+
+Advertise in channel list
+
+
+Allow sharing by default
+
+
+Create
+
+
+Create New Channel
+
+
+Hash
+
+
+Initial Configuration
+
+
+Randomize
+
+
+Secret Key
+
+
+This setting can be changed later by editing the channel information.
+
+
+
+
+/////// ui/!layout/channel_defusername
+
+
+
+Channel User Name
+
+
+Please enter a default user name
+
+
+
+
+/////// ui/!layout/channel_entersk
+
+
+
+Enter Channel Secret Key
+
+
+
+
+/////// ui/!layout/channel_info_edit_warn
+
+
+
+Are you sure you want to do
+
+
+Edit Channel Info
+
+
+Incomplete Channel Information
+
+
+You are attempting to edit channel information that has not been completely downloaded.
+
+
+
+
+/////// ui/!layout/channel_info_unsaved_warn
+
+
+
+Click the Save Changes or Cancel Edit button before selecting another channel.
+
+
+Unsaved Changes
+
+
+You have not saved the changes made to the information for this channel.
+
+
+
+
+/////// ui/!layout/channel_infosavetopicwarn
+
+
+
+Back To Editing
+
+
+Channel Topic
+
+
+If you continue, the topic will not have a matching signature and will not be visible until the owner re-saves the info.
+
+
+Save Anyway
+
+
+Unable to post new topic
+
+
+new topic must be signed by the channel owner.
+
+
+
+
+/////// ui/!layout/channel_purge_messages
+
+
+
+Clean Channel Outgoing Messages
+
+
+Move all message directives to end of shared data
+
+
+Remove deep orphaned outgoing commands older than
+
+
+Remove deep orphaned outgoing messages older than
+
+
+Remove deep orphaned outgoing private messages older than
+
+
+Remove invalid message directives from shared data
+
+
+Remove orphaned outgoing commands older than
+
+
+Remove orphaned outgoing messages older than
+
+
+Remove orphaned outgoing private messages older than
+
+
+Remove outgoing commands older than
+
+
+Remove outgoing messages older than
+
+
+Remove outgoing private messages older than
+
+
+
+
+/////// ui/!layout/channel_purgechannels
+
+
+
+Clean Channel List
+
+
+Last time gathered over
+
+
+Last time online over
+
+
+Last time running over
+
+
+days ago
+
+
+
+
+/////// ui/!layout/channel_purgeusers
+
+
+
+Apply continuously
+
+
+Clean Channel User List
+
+
+Remove non-sharing users that have been offline
+
+
+Remove sharing users that have been offline
+
+
+
+
+/////// ui/!layout/channel_share_unsaved_warn
+
+
+
+You have not saved the changes made to your shared items for this channel.
+
+
+
+
+/////// ui/!layout/channel_shareweb
+
+
+
+Add Web Link
+
+
+optional
+
+
+
+
+/////// ui/!layout/channel_sharexfer
+
+
+
+Add Selected Transfers
+
+
+Mirror Selected Categories
+
+
+Share Transfers
+
+
+
+
+/////// ui/!layout/channel_stream_player_settings
+
+
+
+Channel Stream Player
+
+
+Custom player path
+
+
+Fallback Stream Play Method
+
+
+Try to launch streams in FFmpeg
+
+
+Try to launch streams in VLC Media Player
+
+
+asx playlist
+
+
+m3u playlist
+
+
+pls playlist
+
+
+
+
+/////// ui/!layout/channel_streamlist_addfile
+
+
+
+Add File
+
+
+
+
+/////// ui/!layout/channel_streamlist_addfile_reminder
+
+
+
+Don't show this reminder again
+
+
+Reminder
+
+
+This can be done using free open-source tools.
+
+
+Video files
+
+
+Visit
+
+
+and others
+
+
+can be easily converted into a
+
+
+file that is suitable for streaming.
+
+
+for simple instructions and examples, or press the help button or F1 key.
+
+
+
+
+/////// ui/!layout/channel_streamlist_addsleep
+
+
+
+Add Intermission
+
+
+Seconds
+
+
+
+
+/////// ui/!layout/channel_streamlist_addurl
+
+
+
+Add Live Stream
+
+
+IMPORTANT
+
+
+Streaming HTTP URL
+
+
+The stream will be relayed in the channel as-is, in real-time, and will not be processed for pacing cues or other format-specific information.
+
+
+This must be a connection to a streaming media server or media player/transcoder, not an ordinary static file on a web site.
+
+
+
+
+/////// ui/!layout/channel_streamlist_edittitle
+
+
+
+Edit Title
+
+
+
+
+/////// ui/!layout/channel_streamlist_startoffset
+
+
+
+Start Streaming Item At Offset
+
+
+
+
+/////// ui/!layout/channel_useredit
+
+
+
+Edit Local User
+
+
+
+
+/////// ui/!layout/channeladd_url
+
+
+
+Add Channel From URL
+
+
+
+
+/////// ui/!layout/channels_change_key
+
+
+
+Apply to all channels
+
+
+Apply to channels that use the default user name
+
+
+Apply to channels that use the previous key
+
+
+New channels will use this key by default
+
+
+Private Key
+
+
+Public/private key pairs are used for message encryption and access level persistence within each channel.
+
+
+
+
+/////// ui/!layout/channels_change_name
+
+
+
+Apply to channels that use the previous name
+
+
+Don't change the name used in any existing channel
+
+
+New channels will use this name by default
+
+
+
+
+/////// ui/!layout/channels_empty_list
+
+
+
+Channel List Empty
+
+
+Don't show this again
+
+
+Empty Channel List
+
+
+Would you like to gather a list of channels from other
+
+
+
+
+/////// ui/!layout/channels_sk_warning
+
+
+
+Are you sure you want to copy the key to the
+
+
+Be careful with the channel secret
+
+
+The secret key allows anyone to fully control this channel.
+
+
+Warning
+
+
+
+
+/////// ui/!layout/channels_time_reminder
+
+
+
+Accurate Time Is Important
+
+
+Channels will not work correctly if your computer's clock is off by more than five minutes.
+
+
+
+
+/////// ui/!layout/checkud
+
+
+
+Check For Update
+
+
+Checking For Updates
+
+
+Please stand
+
+
+
+
+/////// ui/!layout/closeprompt
+
+
+
+Close Button Action
+退出 Tixati ?
+
+Completely exit the program
+完整退出程式
+
+Continue running in the
+持續執行
+
+Minimize to tray
+縮小至系統工具列
+
+Set as default action
+設為預設動作
+
+You can exit the program at any time by right-clicking the tray icon and selecting
+您可以隨時退出程式，透過右鍵點擊工具列圖標並選擇
+
+from the popup menu.
+在彈出式的選單中。
+
+run in background
+在背景執行
+
+
+
+/////// ui/!layout/closewarn
+
+
+
+Click Cancel to continue using the program.
+按下 取消 持續使用 Tixati
+
+Click OK to completely exit Tixati.
+按下 好的 退出 Tixati
+
+The tray icon is not being displayed due to an error.
+
+
+Tray Icon Failure
+
+
+
+
+/////// ui/!layout/config_autosel
+
+
+
+Always Select
+
+
+Apply Filters To Single-File Transfers
+
+
+Default Preset For New Transfers
+
+
+File Auto-Select
+
+
+If there are two or more files matching, they will be downloaded in order.
+
+
+Match Case
+
+
+Matching files will be downloaded from beginning to end.
+
+
+Maximum Bytes
+
+
+Minimum Bytes
+
+
+Move Single File Out Of Containing Folder
+
+
+Never Select
+
+
+One entry per line.
+
+
+Only Select
+
+
+Preset
+
+
+Size Threshold
+
+
+Specify a priority by itself on a line, in square brackets, followed by filename match lines.
+
+
+These filters are applied to all file names when a new transfer is loaded.
+
+
+Valid priorities
+
+
+Wildcards
+
+
+of largest
+
+
+to use a custom sequential settings preset for match lines following it.
+
+
+
+
+/////// ui/!layout/config_client_filter
+
+
+
+Always Allow
+
+
+Apply To Running Peers
+
+
+Client ID
+
+
+Never Allow
+
+
+Only Allow
+
+
+Peer ID
+
+
+These filters are applied to all client IDs.
+
+
+These filters are applied to all peer IDs.
+
+
+
+
+/////// ui/!layout/config_lan_peers
+
+
+
+Default Off
+
+
+Default On
+
+
+Disabled
+
+
+Enabled
+
+
+Regularly add the following peers to every running channel
+
+
+Regularly add the following peers to every running transfer
+
+
+SSDP Local Peer Discovery
+
+
+Secure Local Resource Discovery
+
+
+This will use UDP multicast broadcasts to find other clients in common channels on the local network.
+
+
+This will use UDP multicast broadcasts to find other clients in common transfers on the local network.
+
+
+
+
+/////// ui/!layout/config_notifications
+
+
+
+Add Sound
+
+
+Download Completion Sound
+
+
+Each channel can have custom notifications
+
+
+Each contact can have custom notifications
+
+
+Each file can have custom notifications
+
+
+Flash tray icon on add or reply
+
+
+Flash tray icon on chat activity
+
+
+Flash tray icon on incoming private message
+
+
+Flash tray icon when a contact goes online
+
+
+Flash tray icon when download completes
+
+
+Join Sound
+
+
+Leave Sound
+
+
+Message Sound
+
+
+Nothing
+
+
+Offline Sound
+
+
+Online Sound
+
+
+Private Message Sound
+
+
+Remove Sound
+
+
+Reply Sound
+
+
+Show Transfers
+
+
+Show full chat message in tray balloon
+
+
+Show full private message in tray balloon
+
+
+Show tray balloon on chat activity
+
+
+Show tray balloon on incoming private message
+
+
+Show tray balloon when a contact goes online
+
+
+Show tray balloon when download completes
+
+
+Tray balloon click action
+
+
+second delay
+
+
+
+
+/////// ui/!layout/config_sequential
+
+
+
+Aggressiveness percent
+
+
+File tail MB
+
+
+File tail percent
+
+
+Minimum seed count
+
+
+Progress limit percent
+
+
+Sequential Download Options
+
+
+
+
+/////// ui/!layout/config_tooltips
+
+
+
+Channel Forum View
+
+
+Channel Users List
+
+
+Channels List
+
+
+DHT Views
+
+
+Ellipsized Text
+
+
+Extra Info
+
+
+IP Filters
+
+
+RSS Feed URLs List
+
+
+RSS Feeds List
+
+
+RSS Published Items List
+
+
+Search Results
+
+
+Transfer Categories
+
+
+Transfer Files Tab
+
+
+Transfer Peers Tab
+
+
+Transfer Pieces Tab
+
+
+Transfer Trackers Tab
+
+
+Transfers List
+
+
+
+
+/////// ui/!layout/coresaveerror
+
+
+
+Error Saving Config File
+儲存設定檔錯誤
+
+
+
+/////// ui/!layout/dblclick
+
+
+
+Behavior section.
+
+
+Channel Forum Message
+
+
+Connect/Disconnect
+連接/斷開連接
+
+Download/Open Link
+下載/開啟連結
+
+Expand/Collapse
+展開/摺疊
+
+Expand/Collapse All
+展開/摺疊全部
+
+Feed URL
+
+
+Ignore/Unignore
+
+
+Objects Inside Property Tabs
+
+
+Objects Inside Tree View
+
+
+Open File/Folder
+開啟檔案/資料夾
+
+Open Location/Folder
+開啟
+
+Other
+
+
+Published Item
+
+
+RSS Feed
+
+
+Scheduler Task
+
+
+Select Double-Click Actions
+
+
+Shell Open
+
+
+This window can be accessed at any time from the main settings
+
+
+Transfer
+
+
+Zero
+
+
+under the User Interface
+
+
+
+
+/////// ui/!layout/delconf
+
+
+
+Change preferences relating to this window
+
+
+Delete Files
+刪除檔案
+
+Delete Local Files
+刪除本機檔案
+
+Delete Only
+只刪除
+
+Delete Or Trash
+
+
+Delete these local
+
+
+Keep Files
+
+
+Some files may be merged with other transfers
+
+
+Trash Files
+
+
+Trash Only
+
+
+
+
+/////// ui/!layout/deletemetadirsel
+
+
+
+Select Auto-Delete
+
+
+
+
+/////// ui/!layout/dr
+
+
+
+If you enjoy using this software, please help us keep going.
+如果你喜歡使用這個軟體，請幫助我們繼續前進。
+
+This software is made by an independent developer.
+
+
+Unlike other torrent apps, it has no ads, no spyware, and no sleazy tracking or mining schemes.
+
+
+
+
+/////// ui/!layout/dscok
+
+
+
+Associated with decentralized sharing channel links
+
+
+Channel Link Association
+
+
+Tixati is the default dsc
+
+
+link handler
+
+
+
+
+/////// ui/!layout/dscprompt
+
+
+
+Handle Channel Links
+
+
+Set Tixati as the default link handler
+
+
+Tixati is not the default decentralized sharing channel
+
+
+
+
+/////// ui/!layout/duplicates
+
+
+
+Loaded Duplicate Transfers
+
+
+Merge trackers and web seed URLs into existing
+
+
+Merge trackers into existing
+
+
+Merge web seed URLs into existing
+
+
+
+
+/////// ui/!layout/duplicates_conf
+
+
+
+Auto-Created From RSS
+
+
+Contexts
+
+
+Created From Watched Folder
+
+
+Created In Add Window Or Shell
+
+
+Default Action
+
+
+Duplicate Transfer Prompt
+
+
+Manually Created From RSS
+
+
+Merge Trackers Into Existing Transfers
+
+
+
+
+/////// ui/!layout/edit_desc
+
+
+
+Edit Description
+編輯 說明
+
+
+
+/////// ui/!layout/edit_tracker
+
+
+
+Edit Tracker
+編輯 Tracker
+
+
+
+/////// ui/!layout/editipfilter
+
+
+
+Edit IP Filter
+編輯 IP 過濾器
+
+
+
+/////// ui/!layout/edittrackers
+
+
+
+Edit Trackers
+編輯 Trackers
+
+Put a blank line between groups.
+
+
+
+
+/////// ui/!layout/filecompletionshellcmds
+
+
+
+Completion of files with specific extension
+
+
+File Completion Shell Commands
+
+
+Multiple extensions
+
+
+Only the first command that matches a particular file or transfer will be run.
+
+
+Per file upon completion of whole transfer
+
+
+Per file with specific extension upon completion of whole transfer
+
+
+Placeholders for unquoted path components
+
+
+Run command upon completion of whole transfer
+
+
+The
+
+
+The placeholder
+
+
+Upon individual file completion
+
+
+placeholder is equivlent to
+
+
+will be substituted for the full path of the file or folder, in quotes.
+
+
+
+
+/////// ui/!layout/filelocfoldersel
+
+
+
+Select File Location
+
+
+
+
+/////// ui/!layout/filemocfoldersel
+
+
+
+Select MOC Location
+
+
+
+
+/////// ui/!layout/incfoldersel
+
+
+
+Select Download Folder
+選擇下載資料夾
+
+
+
+/////// ui/!layout/incfolderwarn
+
+
+
+Download Folder Not Found
+
+
+New Download Folder
+
+
+
+
+/////// ui/!layout/initconfig
+
+
+
+Automatic Limiter
+
+
+Bandwidth Throttle
+頻寬限制
+
+Check for Tixati updates every week
+每周檢查 Tixati 更新
+
+Default Location To Save Downloaded Files
+
+
+Incoming KB/s Limit
+限制下載 KB/s
+
+Incoming Port
+下載埠號
+
+Outgoing KB/s Limit
+限制上傳 KB/s
+
+Please take a moment to review the default settings.
+
+
+Randomize port every
+
+
+These settings will work on any system, so if you don't know what to do, just click
+
+
+recommended for ADSL/Cable internet
+
+
+
+
+/////// ui/!layout/load_settingsarch_error
+
+
+
+Error Importing Config From File
+
+
+
+
+/////// ui/!layout/load_settingsarch_reminder
+
+
+
+All current settings, transfers
+
+
+Continue
+
+
+Please be patient.
+
+
+RSS feeds, IP filters, and scheduler events will be lost and overwritten with the contents of the archive file you load.
+
+
+THIS WILL OVERWRITE EVERYTHING IN TIXATI
+
+
+There may be a delay of up to
+
+
+Tixati will restart after importing the configuration archive.
+
+
+but not downloaded
+
+
+seconds.
+
+
+
+
+/////// ui/!layout/load_settingsarchive_catsel
+
+
+
+After this operation is complete, Tixati will restart.
+
+
+Bandwidth Auto-Limiter
+
+
+Select Import Categories
+
+
+Select Items To Import
+
+
+This Will Overwrite Current Config Files
+
+
+This may take a minute or two.
+
+
+UI Colors
+
+
+UI Element Sizing, Position, Sorting
+
+
+not including downloaded files
+
+
+
+
+/////// ui/!layout/menucustomize
+
+
+
+Customize Menu
+個人化選單
+
+Press F1 or the Help button for format details.
+按下 F1 或 幫助按鈕 獲得格式細節
+
+Test
+測試
+
+
+
+/////// ui/!layout/move_conflict
+
+
+
+Apply to All
+套用至全部
+
+Conflicting Local Files Already Exist
+
+
+Existing Files
+
+
+
+
+/////// ui/!layout/move_file_conflict
+
+
+
+Moving
+
+
+Name Conflict At Destination
+
+
+The destination location already contains a folder with the same name as the file you are trying to move.
+
+
+
+
+/////// ui/!layout/move_file_dest_large
+
+
+
+The destination location already contains a larger file with the same name as the file you are trying to move.
+
+
+
+
+/////// ui/!layout/move_file_merge_confirm
+
+
+
+File Already Exists At Destination
+
+
+The destination location contains a file with the same name as the one you are trying to move.
+
+
+
+
+/////// ui/!layout/move_folder_conflict
+
+
+
+The destination location already contains a file with the same name as the folder you are trying to move.
+
+
+
+
+/////// ui/!layout/move_folder_merge_confirm
+
+
+
+Folder Already Exists At Destination
+
+
+The destination location contains a folder with the same name as the one you are trying to move.
+
+
+
+
+/////// ui/!layout/mrucustomize
+
+
+
+Customize Location Shortcuts
+
+
+Location sub-menu.
+
+
+Path
+
+
+These folder shortcuts appear when a transfer is right clicked, under the Local Files
+
+
+Use the buttons at the bottom of this window to add or remove folders, and drag the folders in the list to customize the order.
+
+
+
+
+/////// ui/!layout/newseedbrowseforfolder
+
+
+
+Select folder for new seed
+
+
+
+
+/////// ui/!layout/nodhtwarn
+
+
+
+DHT Not Running
+
+
+DHT needs to be running for trackerless searching and magnet-links.
+
+
+Switch to the DHT window and press the
+
+
+button.
+
+
+
+
+/////// ui/!layout/opentor
+
+
+
+After the source files have been selected, they will be scanned to build meta-info.
+
+
+Browse for
+
+
+Create New Seed
+
+
+Default Tab
+
+
+Editable Full Paths
+
+
+Folder Names
+
+
+Full Paths
+
+
+Horizontal Layout
+
+
+If the size is too large, the swarm will not operate efficiently.
+
+
+Last Active Tab
+
+
+Location/MOC Controls
+
+
+Once the meta-info has been built, a magnet-link or
+
+
+Open Magnet-Link
+
+
+PEX peer exchange and DHT will not be used to find peers in any transfer that has the PRIVATE flag set.
+
+
+Piece size
+分塊大小
+
+Select source file or folder
+
+
+Set PRIVATE flag
+
+
+This option should be selected if a private access-controlled tracker will control this swarm.
+
+
+Use this option to create and seed a new swarm from a local file or folder.
+
+
+Vertical Layout
+
+
+file can be saved and distributed for other users to join the swarm.
+
+
+piece size too small will cause excess protocol traffic within the swarm.
+
+
+
+
+/////// ui/!layout/piecepathsel
+
+
+
+Select Piece Cache Folder
+
+
+
+
+/////// ui/!layout/piecesfolderwarn
+
+
+
+Unable to find
+
+
+Use Default Folder
+
+
+create partial piece storage folder
+
+
+
+
+/////// ui/!layout/preload
+
+
+
+Apply To All
+套用至全部
+
+Apply location, move on complete, and start/stop/remove to remaining freshly-loaded transfers
+
+
+Auto-continue non-activity timeout
+
+
+Don't move individual files/folders upon completion
+
+
+Load Transfer
+
+
+Next In Queue
+
+
+Show this window after loading multi-file
+
+
+Show this window after loading multi-file magnet link
+
+
+Show this window after loading single-file
+
+
+Show this window after loading single-file magnet link
+
+
+Use a blank line between tracker groups.
+
+
+
+
+/////// ui/!layout/preload_conf
+
+
+
+Conditions
+
+
+Load Transfer Prompt
+
+
+Location and MOC Controls
+
+
+Magnet Link Resolving To Multiple Files
+
+
+Magnet Link Resolving To Single File
+
+
+Meta-Data Containing Multiple Files
+
+
+Meta-Data Containing Single File
+
+
+Prompt Timeout
+
+
+Vertical Location and MOC Layout
+
+
+
+
+/////// ui/!layout/preload_conflict
+
+
+
+Go Back
+
+
+Local Files Already Exist
+
+
+
+
+/////// ui/!layout/preload_dupwarn
+
+
+
+Duplicate Transfer Name
+
+
+Each transfer should have a different name to eliminate the possibility of local file conflicts.
+
+
+Existing Transfer With Matching Name
+
+
+
+
+/////// ui/!layout/prioritythrottlereminder
+
+
+
+Bandwidth Throttle Not Set
+
+
+
+
+/////// ui/!layout/protook
+
+
+
+Associated with magnet links
+
+
+Magnet Link Association
+
+
+Tixati is the default magnet link handler
+
+
+
+
+/////// ui/!layout/protoprompt
+
+
+
+Handle magnet links
+
+
+Set Tixati as the default magnet link handler
+
+
+Tixati is not the default magnet link handler.
+
+
+
+
+/////// ui/!layout/rename_conf
+
+
+
+New Folder Name Already Exists
+
+
+Renaming
+
+
+Would you like to attempt to merge the
+
+
+
+
+/////// ui/!layout/rename_file_conf
+
+
+
+New File Name Already Exists
+
+
+
+
+/////// ui/!layout/rename_file_conflict
+
+
+
+Name Already Exists
+
+
+The name you specified for this file already exists and can not be merged.
+
+
+
+
+/////// ui/!layout/rename_file_too_large
+
+
+
+The name you specified is already in use by another file that is larger than the one being renamed.
+
+
+
+
+/////// ui/!layout/rename_folder_conflict
+
+
+
+The name you specified for this folder is already in use by a file.
+
+
+
+
+/////// ui/!layout/replaceconfirm
+
+
+
+Replace
+
+
+
+
+/////// ui/!layout/rssediturls
+
+
+
+Edit RSS Feed URLs
+
+
+
+
+/////// ui/!layout/rsstestsaveprompt
+
+
+
+RSS Feed Test
+
+
+Would you like to save the updated
+
+
+
+
+/////// ui/!layout/save_settingsarchive_catsel
+
+
+
+Select Export Categories
+
+
+Select Items To Export
+
+
+
+
+/////// ui/!layout/save_settingsarchive_error
+
+
+
+Error Exporting Config To File
+
+
+
+
+/////// ui/!layout/saved_debug_file
+
+
+
+Report Saved
+
+
+Saved Report To File
+
+
+
+
+/////// ui/!layout/savemetafiles
+
+
+
+To Folder
+
+
+
+
+/////// ui/!layout/scheduler_catchup
+
+
+
+Run missed scheduler
+
+
+Run them now
+
+
+Skip them
+
+
+
+
+/////// ui/!layout/shellassocprompt
+
+
+
+File And Link Association
+
+
+Open Channel From
+
+
+Open Transfer From
+
+
+Revert on exit
+
+
+links
+
+
+portable mode
+
+
+
+
+/////// ui/!layout/shutdownwarn
+
+
+
+All downloads are complete.
+
+
+Auto Shutdown Activated
+
+
+Shut Down Now
+
+
+System Shutdown
+
+
+
+
+/////// ui/!layout/socketparams_reminder
+
+
+
+Don't show this warning again
+
+
+Even small changes can greatly reduce your transfer speeds.
+
+
+Expert Users Only
+
+
+Please do not change any of the following settings unless you are very certain you understand them.
+
+
+Press F1 for more information at any time.
+
+
+
+
+/////// ui/!layout/ta_addrule
+
+
+
+Add Rule
+
+
+IF
+
+
+IS
+
+
+THEN
+
+
+WAIT
+
+
+average ping RTT
+
+
+from last
+
+
+greater than
+
+
+high ping RTT
+
+
+less than
+
+
+low ping RTT
+
+
+lower
+
+
+outgoing throttle by
+
+
+percent
+
+
+raise
+
+
+seconds before checking rules again
+
+
+success rate
+
+
+target ping RTT multiplied by
+
+
+
+
+/////// ui/!layout/ta_editrule
+
+
+
+Edit Rule
+
+
+
+
+/////// ui/!layout/testrssfeed
+
+
+
+Copy Formatted Results
+
+
+Copy Item Names Only
+
+
+Feed Retrieval
+
+
+Item Filtering
+
+
+Pass
+
+
+Select All
+
+
+Test RSS Feed
+
+
+
+
+/////// ui/!layout/throttlereminder
+
+
+
+Click the
+
+
+For best download performance, it is important to set the outgoing bandwidth throttle to approximately
+
+
+Outgoing Bandwidth Throttle Not Set
+
+
+Press F1 now for more information.
+
+
+button at the top of the main window to adjust the throttles.
+
+
+of total outgoing capacity, or activate the Bandwidth Auto-Limit feature.
+
+
+
+
+/////// ui/!layout/trackerindividualsettings
+
+
+
+Add to New
+
+
+Advanced Options
+
+
+All headers and peer IDs should be URL encoded.
+
+
+An empty
+
+
+If a match line is found anywhere in a tracker URL, the option lines will apply to that tracker.
+
+
+Individual Tracker Options
+
+
+Match lines are followed by one or more option lines, and then a blank line.
+
+
+Remove From New
+
+
+Separate tracker groups with a blank line.
+
+
+Skip Announce
+
+
+The regex
+
+
+This is the default.
+
+
+Trackers that match any of these lines will not make announcements.
+
+
+When a new transfer is loaded, these trackers will be added if not already present.
+
+
+When a new transfer is loaded, trackers that match any of these lines will be removed.
+
+
+alias
+
+
+cookie
+
+
+header
+
+
+on its own line to apply the following lines to created torrents.
+
+
+on its own line to apply the following lines to private torrents.
+
+
+on its own line to not apply the following lines to created torrents.
+
+
+on its own line to not apply the following lines to private torrents.
+
+
+peerid
+
+
+prefix can be used at the beginning of any line.
+
+
+prefix can be used at the beginning of any match line.
+
+
+will reset to default.
+
+
+
+
+/////// ui/!layout/trackers_replace
+
+
+
+Contains
+
+
+Find and Replace Trackers
+
+
+RegEx
+
+
+Wildcard
+
+
+
+
+/////// ui/!layout/trayaltreminder
+
+
+
+The menu normally accessed by right-clicking the tray icon can also be accessed by right-clicking the main window top toolbar.
+
+
+Tray Icon Disabled
+
+
+
+
+/////// ui/!layout/traymenu_reminder
+
+
+
+Right-click the top toolbar or tray icon to select alternate toolbar layouts or enable extra features such as RSS, Scheduler, Auto Startup
+
+
+Shutdown, and Bandwidth Presets.
+
+
+
+
+/////// ui/!layout/updateready
+
+
+
+An updated Tixati is now
+
+
+Check for updates every week
+
+
+Update Available
+
+
+Visit the Tixati download page now
+
+
+
+
+/////// ui/!layout/watchformetadirsel
+
+
+
+Select Folder To Monitor
+
+
+
+
+/////// ui/!layout/webuitemplatefoldersel
+
+
+
+Select Web Interface Template Folder
+
+
+
+
+/////// ui/!layout/xfercols
+
+
+
+Abs Bytes Complete
+
+
+Abs Bytes Complete of Total
+
+
+Abs Bytes Remaining
+
+
+Abs Bytes Total
+
+
+Bytes Complete
+
+
+Bytes Complete of Total
+
+
+Bytes Downloaded
+
+
+Bytes Remaining
+
+
+Bytes Total
+
+
+Bytes Uploaded
+
+
+Peers In Tree
+
+
+Peers View
+
+
+Seeds View
+
+
+Select Columns
+
+
+Transfers View
+
+
+UL Ratio
+
+
+
+
+/////// ui/!layout/xferlocfoldersel
+
+
+
+Select New Location
+
+
+
+
+/////// ui/!layout/xfermanage
+
+
+
+Load Defaults
+
+
+Standard
+
+
+Transfer Queue Management Parameters
+
+
+
+
+/////// ui/!layout/xfermoclocfoldersel
+
+
+
+Select Location
+
+
+
+
+/////// ui/!layout/memspeedprofile
+
+
+
+Allocations
+
+
+Clear All
+
+
+Memory Alloc Speed
+
+
+sec
+
+
+
+
+/////// ui/!layout/memstateprofile
+
+
+
+Memory Alloc State
+
+
+Objs
+
+
+
+
+/////// ui/!layout/memstateprofile_inactive
+
+
+
+Create an empty file named
+
+
+Memory state profiling is not active.
+
+
+in the directory with the main program executable and restart.
+
+
+
+
+/////// ui/!layout/other_instance_wait
+
+
+
+Starting Tixati
+
+
+Waiting for other instance of Tixati to save and
+
+
+
+
+/////// ui/!layout/peerprop
+
+
+
+Connected
+
+
+Connection status and errors
+
+
+Current Status
+
+
+Download Ratio
+
+
+File Bytes Received
+
+
+File Bytes Sent
+
+
+Implied Remote DL B/s
+
+
+Incoming File B/s
+
+
+Incoming Protocol B/s
+
+
+Incoming Total B/s
+
+
+Outgoing File B/s
+
+
+Outgoing Protocol B/s
+
+
+Outgoing Total B/s
+
+
+Protocol Bytes Received
+
+
+Protocol Bytes Sent
+
+
+Remote Address
+
+
+Total Bytes Received
+
+
+Total Bytes Sent
+
+
+Transfer Name
+
+
+Upload
+
+
+
+
+/////// ui/!layout/profile_d
+
+
+
+File Operations
+
+
+
+
+/////// ui/!layout/profile_dir_access
+
+
+
+Open Directories
+
+
+Open Watches
+
+
+Read Bytes
+
+
+Read Calls
+
+
+Sec
+
+
+Write Bytes
+
+
+Write Calls
+
+
+
+
+/////// ui/!layout/profile_file_access
+
+
+
+Open Files
+
+
+
+
+/////// ui/!layout/socketlog
+
+
+
+Ack Adj
+
+
+Loss Adj
+
+
+No Display
+
+
+Packets
+
+
+Params
+
+
+Save Sorted By IP
+
+
+Stat Dump
+
+
+UPC Socket Log
+
+
+
+
+/////// ui/!layout/socketparams
+
+
+
+Compatible
+
+
+DEFAULT
+
+
+Network Parameters
+
+
+Save And Apply
+
+
+Strict
+
+
+
+
+/////// ui/!layout/stream_prop
+
+
+
+Play This Stream
+
+
+Playback
+
+
+Segment
+
+
+Segment Hashing
+
+
+
+
+/////// ui/!layout/test_connpacer
+
+
+
+This test will cycle thousands of random simultaneous connection requests through the connection pacer.
+
+
+This will not create any network activity, but it will temporarily slow down connections and other program operations.
+
+
+crash during this test may be a sign of system instability.
+
+
+
+
+/////// ui/!layout/upnp_log
+
+
+
+Save Report To File
+
+
+UPNP/NATPMP Diagnostic Log
+
+
+
+
+/////// ui/AddIPFilterWnd
+
+
+
+file
+
+
+
+
+/////// ui/AddRSSWnd
+
+
+
+categories
+
+
+no location selected
+
+
+parameters
+
+
+rss
+
+
+setfilter
+
+
+urls
+
+
+
+
+/////// ui/AddSchedulerTaskChanMsgWnd
+
+
+
+scheduler
+
+
+
+
+/////// ui/AddSchedulerTaskSpecItemWnd
+
+
+
+channels
+
+
+
+
+/////// ui/AddSchedulerTaskWnd
+
+
+
+temp
+
+
+
+
+/////// ui/AutoThrottleRuleEditWnd
+
+
+
+template
+
+
+
+
+/////// ui/AutoThrottleWnd
+
+
+
+Minimum Outgoing KB/s
+
+
+Minimum Outgoing KiB/s
+
+
+loadrules
+
+
+saverules
+
+
+
+
+/////// ui/BWProfileAddWnd
+
+
+
+bwpresets
+
+
+
+
+/////// ui/BWQuotaAddWnd
+
+
+
+Edit Bandwidth Quota
+
+
+Noon
+
+
+
+
+/////// ui/BWView
+
+
+
+layout
+
+
+
+
+/////// ui/CategoryAddWnd
+
+
+
+No changes to default location
+
+
+no file selected
+
+
+no folder selected
+
+
+
+
+/////// ui/ChannelListView
+
+
+
+Flash Tray Icon
+
+
+Show Tray Balloon
+
+
+
+
+/////// ui/ChannelMemberPropWnd
+
+
+
+Channel is currently offline.
+
+
+No cached data for this user in this channel.
+
+
+Shared data is not cached locally for ignored users.
+
+
+This user does not have permission to share.
+
+
+This user is not sharing anything.
+
+
+Waiting for shared data, please stand
+
+
+
+
+/////// ui/ChannelMemberRecvMsgWnd
+
+
+
+Received
+
+
+at
+
+
+
+
+/////// ui/ChannelMemberSendMsgWnd
+
+
+
+Message sent OK
+
+
+Message was not acknowledged
+
+
+Sending
+
+
+
+
+/////// ui/ChannelMsgAddWnd
+
+
+
+Add Forum Message to
+
+
+Add Forum Reply to
+
+
+Currently sharing
+
+
+maximum capacity
+
+
+of
+
+
+
+
+/////// ui/ChannelMsgView
+
+
+
+from
+
+
+removed
+
+
+
+
+/////// ui/ChannelMsgsView
+
+
+
+approve
+
+
+banned
+
+
+basic
+
+
+disapprove
+
+
+forum
+
+
+manager
+
+
+mod
+
+
+normal
+
+
+op
+
+
+owner
+
+
+prompt
+
+
+quiet
+
+
+silent
+
+
+star
+
+
+trusted
+
+
+vip
+
+
+
+
+/////// ui/ChannelSearchNewView
+
+
+
+All Channels
+
+
+Channel Info
+
+
+Searched
+
+
+Send message to
+
+
+action
+
+
+bytes
+
+
+in
+
+
+translate
+
+
+type
+
+
+user
+
+
+users
+
+
+users so
+
+
+weblink
+
+
+
+
+/////// ui/ChannelShareView
+
+
+
+Default Shared Items
+
+
+Mirror what appears in the main Share view.
+
+
+edit
+
+
+
+
+/////// ui/ChannelShareWebWnd
+
+
+
+Bad Characters
+
+
+Bad Protocol or Semicolon
+
+
+
+
+/////// ui/ChannelView
+
+
+
+Channel is offline.
+
+
+Click here to add/remove files, links, text, and images
+
+
+Click the start button to join.
+
+
+Edit This Page
+
+
+Meta-info not resolved yet
+
+
+No secret key has been entered
+
+
+Outgoing Stream Playlist
+
+
+Secret key OK
+
+
+Unknown Name
+
+
+Waiting for channel info, please stand
+
+
+
+
+/////// ui/ChannelsMainView
+
+
+
+Channel List
+
+
+
+
+/////// ui/CheckUDWnd
+
+
+
+Error Checking For Updates
+
+
+This is the newest version.
+
+
+Tixati Is Up To Date
+
+
+
+
+/////// ui/ColorAdjView
+
+
+
+Abandoned Pieces Text
+
+
+Active Channel
+
+
+Active Channel Link
+
+
+Auto BW Limit Ping Chart Current
+
+
+Auto BW Limit Ping Chart High
+
+
+Auto BW Limit Ping Chart Low
+
+
+Background
+背景
+
+Bandwidth Quota Counting Text
+
+
+Bandwidth Quota Idle Text
+
+
+Bandwidth Quota Over Limit Text
+
+
+Channel Active Xfer Link
+
+
+Channel Edit Link
+
+
+Channel Incoming BW Chart Data
+
+
+Channel Join
+
+
+Channel Leave
+
+
+Channel Link
+
+
+Channel Message Local User
+
+
+Channel Message User
+
+
+Channel Missing Lines
+
+
+Channel Note
+
+
+Channel Outgoing BW Chart Data
+
+
+Channel Regular Text
+
+
+Channel Timestamp
+
+
+Channel Visited Web Link
+
+
+Channel Web Link
+
+
+Channel Xfer Link
+
+
+Chart
+
+
+Chart Background
+
+
+Chart Bottom Line
+
+
+Chart Default Data
+
+
+Chart Disabled Background
+
+
+Chart Foreground
+
+
+Chart Legend Text
+
+
+Chart Middle Lines
+
+
+Chart Scale Text
+
+
+Chart Title
+
+
+Chart Top Line
+
+
+Complete Files Text
+
+
+Connecting Channel
+
+
+Connecting Seeds/Peers Text
+
+
+DHT In Bytes Chart
+
+
+DHT In Packets Chart
+
+
+DHT Orig Trans Chart
+
+
+DHT Out Bytes Chart
+
+
+DHT Out Packets Chart
+
+
+DHT Proc Trans Chart
+
+
+Data
+資料
+
+Day Line
+
+
+Day Text
+
+
+Disabled Background
+
+
+Download/Seed Special Status Text
+
+
+Download/Seed With Error Text
+
+
+Downloading Pieces Text
+
+
+Edit Box Background
+
+
+Edit Box Disabled Background
+
+
+Edit Box Selection Background
+
+
+Edit Box Selection Text
+
+
+Edit Box Text
+
+
+Files With Error Text
+
+
+For
+
+
+Foreground
+
+
+Forum Command Message
+
+
+Forum Disapproved Message
+
+
+Forum Message
+
+
+Forum Orphaned Message
+
+
+Forum Private Message
+
+
+Forum Removed Message
+
+
+Forum Unapproved Message
+
+
+Forum Unpublished Message
+
+
+Hour Line
+
+
+Hour Text
+
+
+IP Filter Auto-Updater Text
+
+
+IP Filter Problem Status Text
+
+
+IP Filter Text
+
+
+IP Filter Updating Status Text
+
+
+Ignored Offline User
+
+
+Ignored Online User
+
+
+Ignored Peer/Seed Text
+
+
+Ignored User Search Result
+
+
+Incoming BW Chart Channels Data
+
+
+Incoming BW Chart Xfers Data
+
+
+Incomplete Files Text
+
+
+List/Tree Background
+
+
+List/Tree Checkbox Checked Background
+
+
+List/Tree Checkbox Checked Border
+
+
+List/Tree Checkbox Checked Foreground
+
+
+List/Tree Checkbox Checked Hover Background
+
+
+List/Tree Checkbox Checked Hover Border
+
+
+List/Tree Checkbox Checked Hover Foreground
+
+
+List/Tree Checkbox Indeterminate Background
+
+
+List/Tree Checkbox Indeterminate Border
+
+
+List/Tree Checkbox Indeterminate Foreground
+
+
+List/Tree Checkbox Indeterminate Hover Background
+
+
+List/Tree Checkbox Indeterminate Hover Border
+
+
+List/Tree Checkbox Indeterminate Hover Foreground
+
+
+List/Tree Checkbox Unchecked Background
+
+
+List/Tree Checkbox Unchecked Border
+
+
+List/Tree Checkbox Unchecked Foreground
+
+
+List/Tree Checkbox Unchecked Hover Background
+
+
+List/Tree Checkbox Unchecked Hover Border
+
+
+List/Tree Checkbox Unchecked Hover Foreground
+
+
+List/Tree Disabled Background
+
+
+List/Tree Odd Row Background
+
+
+List/Tree Progress/Bitfield Background
+
+
+List/Tree Progress/Bitfield Foreground
+
+
+List/Tree Selection Background
+
+
+List/Tree Selection Text
+
+
+List/Tree Sorted Odd Row Background
+
+
+List/Tree Sorted Row Background
+
+
+List/Tree Text
+
+
+Loading Download/Seed Text
+
+
+Local User
+
+
+Minute Line
+
+
+Minute Text
+
+
+Misc Label Caution Text
+
+
+Misc Label Error Text
+
+
+Misc Label OK Text
+
+
+Never Connected Seeds/Peers Text
+
+
+New Empty Pieces Text
+
+
+Newly Gathered Channel
+
+
+Non-existent Files Text
+
+
+OS default
+
+
+Offline Channel
+
+
+Offline Download Text
+
+
+Offline Peers Text
+
+
+Offline Seed Text
+
+
+Offline Seeds Text
+
+
+Offline User
+
+
+Online Channel
+
+
+Online Peers Text
+
+
+Online Seeds Text
+
+
+Online User
+
+
+Outgoing BW Chart Channels Data
+
+
+Outgoing BW Chart Seeding Data
+
+
+Outgoing BW Chart Trading Data
+
+
+Peer Charity Unchoked Indicator Background
+
+
+Peer Charity Unchoked Indicator Foreground
+
+
+Peer Forced Choked Indicator Background
+
+
+Peer Forced Choked Indicator Foreground
+
+
+Peer Forced Unchoked Indicator Background
+
+
+Peer Forced Unchoked Indicator Foreground
+
+
+Peer Interested/Unchoked Indicator Background
+
+
+Peer Interested/Unchoked Indicator Foreground
+
+
+Peer Optimistic Unchoked Indicator Background
+
+
+Peer Optimistic Unchoked Indicator Foreground
+
+
+Peer Prop Incoming BW Chart File Data
+
+
+Peer Prop Incoming BW Chart Protocol Data
+
+
+Peer Prop Outgoing BW Chart File Data
+
+
+Peer Prop Outgoing BW Chart Protocol Data
+
+
+Peer Uninterested/Choked Indicator Background
+
+
+Peer Uninterested/Choked Indicator Foreground
+
+
+Queued Download Text
+
+
+Queued Seed Text
+
+
+RSS Active Feed Text
+
+
+RSS Item In Feed Text
+
+
+RSS Item Out Of Feed Text
+
+
+RSS Problem Status Text
+
+
+RSS Stopped Feed Text
+
+
+RSS Test Fail Item Text
+
+
+RSS Test Item Episode Substring Background
+
+
+RSS Test Item Exclude Substring Background
+
+
+RSS Test Item Match Substring Background
+
+
+RSS Test Pass Item Text
+
+
+RSS Updating Status Text
+
+
+Running Download Text
+
+
+Running Non-queueable Seed Text
+
+
+Running Seed Text
+
+
+Scheduler Active Task Text
+
+
+Scheduler Inactive Task Text
+
+
+Search Result
+
+
+Selection Background
+
+
+Selection Text
+
+
+Status Text
+
+
+Text View Background
+
+
+Text View Disabled Background
+
+
+Text View Selection Background
+
+
+Text View Selection Text
+
+
+Text View Text
+
+
+Tracker Error Status Text
+
+
+Tracker OK Status Text
+
+
+Tracker Working Status Text
+
+
+Tree Expander
+
+
+Tree Expander Mouse Button Down
+
+
+Tree Expander Mouse Hover
+
+
+Unused Channel
+
+
+Xfer Not
+
+
+Xfer Prop Incoming BW Chart File Data
+
+
+Xfer Prop Incoming BW Chart Protocol Data
+
+
+Xfer Prop Outgoing BW Chart File Data
+
+
+Xfer Prop Outgoing BW Chart Protocol Data
+
+
+nothing selected
+
+
+
+
+/////// ui/ConfigNotificationsWnd
+
+
+
+Rate Limit
+
+
+
+
+/////// ui/ConfigView
+
+
+
+base
+
+
+decimal
+
+
+incomplete-pieces
+
+
+separator
+
+
+use default templates
+
+
+
+
+/////// ui/ConfigView_B
+
+
+
+HTTPS
+
+
+Resolving
+解決
+
+logging
+
+
+no presets exist
+
+
+
+
+/////// ui/ConfigView_D
+
+
+
+No interfaces found
+
+
+customize
+
+
+transfers
+
+
+
+
+/////// ui/DupTorWnd
+
+
+
+has the same info-hash as existing transfer named
+
+
+
+
+/////// ui/EditDescWnd
+
+
+
+selected transfers
+
+
+
+
+/////// ui/FontAdjView
+
+
+
+Button
+
+
+Chat View
+
+
+Code View
+
+
+List/Tree
+
+
+System Default
+
+
+System Monospace Default
+
+
+Text Entry
+
+
+Text View
+
+
+The quick brown fox jumps over the lazy dog.
+
+
+Toolbar
+
+
+
+
+/////// ui/HomeView
+
+
+
+Listening
+
+
+Trying to
+
+
+Unconfirmed
+
+
+no port
+
+
+
+
+/////// ui/LoadingProbWnd
+
+
+
+COMPLETE WITH
+
+
+Copied
+
+
+Copy ERROR
+
+
+Copying
+
+
+Copying last successfully loaded config file to temporary file
+
+
+Making copy of broken config file for desktop
+
+
+Move ERROR
+
+
+Moved
+
+
+Moving temporary to current config file
+
+
+PLEASE CLICK THE CLOSE BUTTON THEN MANUALLY RESTART TIXATI TO TRY AGAIN
+
+
+Please
+
+
+Please restart Tixati after clicking the Close button.
+
+
+Remove ERROR
+
+
+Removed
+
+
+Removing
+
+
+Removing current config file
+
+
+User has selected
+
+
+
+
+/////// ui/MainWindow
+
+
+
+Activity in
+
+
+BW
+
+
+BW Preset
+
+
+Channel
+
+
+Chatting in
+
+
+Contact Online
+
+
+Contacts Online
+
+
+DL
+
+
+Download Complete
+
+
+IN
+下載
+
+Items
+
+
+Limit
+限制
+
+New forum message in
+
+
+OUT
+上傳
+
+Online
+上線
+
+Portable
+
+
+Private message from
+
+
+is online
+
+
+
+
+/////// ui/MenuCustomizeWnd
+
+
+
+Editing Menu
+
+
+
+
+/////// ui/OpenTorWnd
+
+
+
+Not enough bytes to create swarm
+
+
+free
+
+
+links found
+
+
+new seed
+
+
+no files have been selected
+
+
+total size
+
+
+
+
+/////// ui/PreloadWnd
+
+
+
+Auto
+
+
+Auto-select largest files and if only one remains move it to the outer download folder
+
+
+Automatic continue in
+
+
+Download file from beginning to end
+
+
+Download selected files in order
+
+
+Expand All
+
+
+an
+
+
+auto
+
+
+
+
+/////// ui/ProcessMenuCommand
+
+
+
+Customize
+
+
+Error in menu XML on line
+
+
+
+
+/////// ui/ProfileDWnd
+
+
+
+logging started
+
+
+
+
+/////// ui/RSSDetailsView
+
+
+
+No Selection
+未選項目
+
+never
+
+
+
+
+/////// ui/RSSView
+
+
+
+Move to
+
+
+Open current MOC location
+
+
+Open current location
+
+
+multiple locations
+
+
+no move on complete
+
+
+
+
+/////// ui/ShutdownWarnWnd
+
+
+
+Shutdown inhibited by OS
+
+
+Shutting down computer in
+
+
+
+
+/////// ui/TestConnPacerWnd
+
+
+
+press the start button to begin
+
+
+testing
+
+
+
+
+/////// ui/TestRSSWnd
+
+
+
+Accept-Encoding
+
+
+Code
+
+
+Connecting
+連接中
+
+Download complete
+
+
+Downloading feed items from
+
+
+ERROR
+
+
+Failed
+
+
+GET
+
+
+Negotiating with
+
+
+No feed URLs
+
+
+No feed items were obtained from the given URLs.
+
+
+Passed
+
+
+Starting
+
+
+Test completed
+
+
+Test stopped
+
+
+The following
+
+
+There were
+
+
+User-Agent
+
+
+Waiting for
+
+
+Waiting to
+
+
+feed items have been obtained.
+
+
+items DID NOT PASS the filter
+
+
+items PASSED the filter
+
+
+items found
+
+
+items with no title.
+
+
+redirect to
+
+
+server IP is filtered
+
+
+server reply overflow
+
+
+server responded with code
+
+
+
+
+/////// ui/TorDetailsView
+
+
+
+seed count exceeded
+
+
+seeding ratio exceeded
+
+
+seeding time exceeded
+
+
+to go
+
+
+
+
+/////// ui/TorFilesMenu
+
+
+
+Change location to
+
+
+Default Location
+
+
+Files are in default location
+
+
+Files will not be individually moved on completion.
+
+
+Open current Move On Complete location
+
+
+
+
+/////// ui/TorOptionsView
+
+
+
+local files not yet created
+
+
+no selection
+
+
+
+
+/////// ui/TrackersReplaceWnd
+
+
+
+Match Test
+
+
+matching trackers were found.
+
+
+
+
+/////// ui/XfersView
+
+
+
+Change downloading location to
+
+
+Change seeding location to
+
+
+Channel Default
+
+
+In Channels
+
+
+Share in default profile
+
+
+
+
+/////// ui/lang_startup
+
+
+
+Unknown author
+
+
+Unknown language file
+
+
+
+
+/////// ui/lang_switch
+
+
+
+No External Language Loaded
+
+
+Restart Tixati to apply the new language.
+
+
+
+
+/////// RootObject
+
+
+
+Error code
+
+
+FileTransfer
+
+
+Internal Error
+
+
+Internet
+
+
+Invalid Tixati archive file
+
+
+Last Run Version
+
+
+Loading Channels
+
+
+Loading DHT
+
+
+Loading Interface
+
+
+Loading RSS
+
+
+Loading Scheduler
+
+
+Loading Settings
+
+
+Loading Throttle
+
+
+Loading Transfers
+
+
+P2P
+
+
+Please save the config file and email it to
+
+
+Reading
+
+
+Scheduler requested shutdown
+
+
+Shutting Down System
+
+
+checking for updated version of
+
+
+creating channel from link
+
+
+decentralized sharing channel
+
+
+directory watcher error
+
+
+early end of file reading
+
+
+error checking for updated version
+
+
+error saving config data to file
+
+
+failed to open channel link
+
+
+file fmt internal error
+
+
+loading DHT
+
+
+loading RSS
+
+
+loading channels
+
+
+loading interface
+
+
+loading scheduler
+
+
+loading settings
+
+
+loading throttle
+
+
+loading transfers
+
+
+months
+
+
+moving
+
+
+opening
+
+
+peer
+
+
+this version of Tixati is up to date
+
+
+updated version of Tixati is available
+
+
+
+
+/////// acomponents/NotificationMenu
+
+
+
+Bell
+
+
+Bike Bell
+
+
+Chime
+
+
+Duck
+
+
+Gong
+
+
+Small Bell
+
+
+Tone
+
+
+Xylo Down
+
+
+Xylo Up
+
+
+
+
+/////// channel/Channel
+
+
+
+Channel Log Level
+
+
+Channel Log Lines
+
+
+Comment
+
+
+DHT search complete
+
+
+Expires
+
+
+Found
+
+
+ID
+
+
+Join/leave notification off
+
+
+Join/leave notification on
+
+
+Last Connected
+
+
+Last Gathered
+
+
+Last Online
+
+
+Last Running
+
+
+Seeking peer
+
+
+Time stamps off
+
+
+Time stamps on
+
+
+backscroll
+
+
+bandwidth limit changed to
+
+
+bandwidth priority group changed to
+
+
+bandwidth share changed to
+
+
+channel disconnected, attempting to
+
+
+channel online
+
+
+forum messages
+
+
+incoming
+
+
+lines in backscroll buffer.
+
+
+local recommend level is
+
+
+outgoing
+
+
+peers found
+
+
+shared links
+
+
+started
+
+
+starting DHT search
+
+
+stop
+
+
+stopped
+停止
+
+total
+
+
+users last online of
+
+
+users online of
+
+
+waiting for meta info
+
+
+with ID
+
+
+
+
+/////// channel/ChannelConnection
+
+
+
+PEX
+
+
+PEX message ignored due to rate limit
+
+
+Peer Log Level
+
+
+Peer Log Lines
+
+
+already connected
+
+
+created from
+
+
+excess connections
+
+
+ignored
+
+
+incoming connection
+下載連接
+
+incoming connection rejected
+
+
+initiating connection
+
+
+manually stopped
+
+
+over max connections
+
+
+peer accepted incoming connection
+
+
+peer created from
+
+
+received PEX message
+
+
+rotating slowest connections
+
+
+sending handshake
+
+
+
+
+/////// channel/ChannelConnections
+
+
+
+connections
+
+
+online
+
+
+over limit
+
+
+
+
+/////// channel/ChannelMember
+
+
+
+Error listening for stream client connections for
+
+
+Listening for stream client connections for
+
+
+Sharing
+
+
+Stopped listening for stream client connections for
+
+
+download links
+
+
+start
+
+
+text lines
+
+
+unknown channel
+
+
+web links
+
+
+
+
+/////// channel/ChannelMemberStreamPlayback
+
+
+
+Connection
+
+
+
+
+/////// channel/ChannelMembers
+
+
+
+exceeds channel limit
+
+
+
+
+/////// channel/ChannelStreamFile
+
+
+
+Building hash
+
+
+Need to build hash set
+
+
+Need to scan
+
+
+Next start at
+
+
+Tixati Outgoing Stream Cache
+
+
+Waiting to build hash
+
+
+invalid file path
+
+
+no segments in file
+
+
+unable to process file that is not
+
+
+
+
+/////// channel/ChannelStreamItems
+
+
+
+Hashing
+
+
+Ready
+
+
+Scanning
+
+
+
+
+/////// channel/ChannelStreamPause
+
+
+
+Waiting
+
+
+
+
+/////// channel/ChannelStreamURL
+
+
+
+CPU
+
+
+Live Stream
+
+
+Retry in
+
+
+Stream closed unexpectedly
+
+
+Stream source timed out while sending
+
+
+direct connection
+
+
+local stream source
+
+
+
+
+/////// channel/Channels
+
+
+
+Empty URL
+
+
+Invalid Hash
+
+
+Invalid Protocol Name or Semicolon
+
+
+Last Cleaned
+
+
+Total Channels
+
+
+add
+
+
+contacts
+
+
+guest
+
+
+new
+
+
+peers processed
+
+
+private
+
+
+remove
+
+
+reply
+
+
+total in list
+
+
+
+
+/////// channel/Contact
+
+
+
+Last online
+
+
+Online in
+
+
+Online in Channels
+
+
+
+
+/////// channel/channelconstants
+
+
+
+Channel Hash
+
+
+InfoHash
+
+
+No media player available to launch stream.
+
+
+Problem launching temporary playlist file
+
+
+Problem writing temporary playlist file
+
+
+channel
+
+
+hash-link
+
+
+waiting for more lines
+
+
+
+
+/////// dht/DHT
+
+
+
+DHT Log Level
+
+
+DHT Log Lines
+
+
+DHT started
+
+
+DHT stopped
+
+
+IPv4 socket not ready
+
+
+IPv4 socket ready
+
+
+IPv6 socket not ready
+
+
+IPv6 socket ready
+
+
+Started
+
+
+Stopped
+
+
+UDP is disabled in proxy settings
+
+
+current node ID
+
+
+last node ID change
+
+
+local node ID set
+
+
+ping
+
+
+pinging hint
+
+
+port unconfirmed
+
+
+timed out waiting for response from
+
+
+unconfirmed incoming port
+
+
+waiting for initial nodes from file transfer peers
+
+
+waiting for network port
+
+
+waiting for port
+
+
+
+
+/////// dht/DHTBucket
+
+
+
+table added node
+
+
+
+
+/////// dht/DHTNode
+
+
+
+Expired
+
+
+Expires in
+
+
+Uncertain
+
+
+received ping error response
+
+
+received ping reply
+
+
+refresh pinging
+
+
+timed out waiting for response
+
+
+
+
+/////// dht/DHTPeers
+
+
+
+Cached Peers
+
+
+keys
+
+
+
+
+/////// dht/DHTSearch
+
+
+
+IPv4
+
+
+IPv4 Node-gathering search
+
+
+IPv6 Node-gathering search
+
+
+node gathering search started
+
+
+search complete
+
+
+search started
+
+
+
+
+/////// dht/DHTSearchNode
+
+
+
+Announce Failed
+
+
+Announced OK
+
+
+Searched OK
+
+
+announcing
+
+
+in search
+
+
+port
+
+
+received
+
+
+received announce acknowledgement
+
+
+received announce failure response
+
+
+requesting nodes
+
+
+requesting peers
+
+
+
+
+/////// dht/DHTSearchTable
+
+
+
+IPv4 nodes
+
+
+IPv6 nodes
+
+
+failed to resolve backup hint
+
+
+node-gathering search completed
+
+
+node-gathering search started
+
+
+trying backup hint
+
+
+trying search hint
+
+
+
+
+/////// dht/DHTTable
+
+
+
+Node Table
+
+
+buckets
+
+
+reverse-splitting bucket
+
+
+splitting bucket
+
+
+
+
+/////// ipfilter/IPFilter
+
+
+
+Error reloading
+
+
+Invalid URL
+
+
+No context
+
+
+Unsupported protocol in URL
+
+
+error reading file
+
+
+next update in
+
+
+
+
+/////// misc/BWPresets
+
+
+
+AL
+
+
+AL Min/Ratio
+
+
+AL Ping Setup
+
+
+AL RTT
+
+
+AL Rules Setup
+
+
+
+
+/////// misc/BWQuotas
+
+
+
+Bandwidth Quota Log Level
+
+
+Bandwidth Quota Log Lines
+
+
+clearing warning dialog
+
+
+counting
+
+
+loading from previous session
+
+
+no longer over limit
+
+
+not counting
+
+
+remaining
+剩餘
+
+reset
+
+
+restarting DHT
+
+
+restarting channels
+
+
+restarting feeds
+
+
+restarting transfers
+
+
+set bandwidth auto-limit to
+
+
+set bandwidth preset
+
+
+set incoming bandwidth throttle to
+
+
+set outgoing bandwidth throttle to
+
+
+showing warning dialog
+
+
+stopping DHT
+
+
+stopping channels
+
+
+stopping feeds
+
+
+stopping transfers
+
+
+
+
+/////// misc/Ports
+
+
+
+BitTorrent protocol
+
+
+IPv4 TCP is disabled for peer connections and trackers in proxy settings
+
+
+IPv4 UDP is disabled for peer connections and DHT in proxy settings
+
+
+IPv4 incoming TCP is disabled for peer connections in proxy settings
+
+
+IPv6 TCP is disabled for peer connections and trackers in proxy settings
+
+
+IPv6 UDP is disabled for peer connections and DHT in proxy settings
+
+
+IPv6 address family not supported on this computer
+
+
+IPv6 incoming TCP is disabled for peer connections in proxy settings
+
+
+IPv6 not supported by configured proxy server
+
+
+IPv6 not supported on this computer
+
+
+Incoming Connections Received
+
+
+NAT-PMP mapped
+
+
+NAT-PMP mapping
+
+
+NAT-PMP unmapped
+
+
+NAT-PMP unmapping
+
+
+No Incoming Port
+
+
+Ports Log Level
+
+
+Ports Log Lines
+
+
+Stopped listening on
+
+
+TCP port
+
+
+UDP port
+
+
+UPNP mapped
+
+
+UPNP mapping
+
+
+UPNP unmapped
+
+
+UPNP unmapping
+
+
+error listening on
+
+
+error setting up IPv4 UDP proxy connection
+
+
+error setting up IPv6 UDP proxy connection
+
+
+ignoring
+
+
+listening on
+
+
+mapping
+
+
+on gateway
+
+
+port mapping is selected, but there are no gateways with a private IP in this machine's routing table
+
+
+proxy approved IPv4 UDP relay at
+
+
+proxy approved IPv6 UDP relay at
+
+
+proxy connection closed while listening on
+
+
+relaying IPv4 UDP to proxy at
+
+
+relaying IPv6 UDP to proxy at
+
+
+retrying
+
+
+socket closed while listening on
+
+
+will be retried every
+
+
+
+
+/////// misc/ThrottleAdjuster
+
+
+
+average
+
+
+loading rules
+
+
+starting
+
+
+stopping
+
+
+
+
+/////// rss/RSSFeed
+
+
+
+Feed Log Level
+
+
+Feed Log Lines
+
+
+Last update failed, next in
+
+
+Next update in
+
+
+No URLs entered
+
+
+created new feed
+
+
+loaded from previous session
+
+
+loading feed
+
+
+started feed
+
+
+stopped feed
+
+
+
+
+/////// rss/RSSFeedEntries
+
+
+
+Exceeds per episode max
+
+
+No meta-info link
+
+
+invalid title
+
+
+item already in feed
+
+
+item created
+
+
+item filtered
+
+
+items already in feed
+
+
+items blocked by filter
+
+
+items created
+
+
+items from server
+
+
+items passed filter
+
+
+
+
+/////// rss/RSSFeedEntry
+
+
+
+Bad magnet link
+
+
+Below minimum total file size
+
+
+Exceeds maximum file count
+
+
+Exceeds maximum total file size
+
+
+Magnet Link
+
+
+No Auto-Download
+
+
+No Links
+
+
+No meta-info found
+
+
+Transfer Already Exists
+
+
+Transfer Created
+
+
+Web Link Only
+
+
+bad magnet link
+
+
+created transfer
+
+
+created transfer from magnet link
+
+
+did not create transfer, already exists
+
+
+error getting meta-info
+
+
+getting meta-info
+
+
+no auto download
+
+
+no auto-download, below minimum total file size
+
+
+no auto-download, exceeds maximum file count
+
+
+no auto-download, exceeds maximum total file size
+
+
+no auto-download, magnet link auto-download disabled
+
+
+no meta-info found
+
+
+
+
+/////// rss/RSSFeedLink
+
+
+
+Update cancelled
+
+
+Updating
+
+
+refresh in
+
+
+retry in
+
+
+sender
+
+
+starting update
+
+
+update complete
+
+
+update failed
+
+
+
+
+/////// scheduler/SchedulerTarget
+
+
+
+AL Off
+
+
+AL On
+
+
+Allow Suspend
+
+
+Auto Limit Off
+
+
+Auto Limit On
+
+
+BWPreset
+
+
+Backup
+
+
+Backup Configuration Files
+
+
+Backup Configuration Files to
+
+
+Bandwidth Preset
+
+
+Chan
+
+
+Channel Message in
+
+
+Channel Topic in
+
+
+DLs
+
+
+Exclude Category
+
+
+Exclude Channel
+
+
+Exclude Feed
+
+
+Exclude Transfer
+
+
+Feed
+
+
+Feeds
+
+
+IN Off
+
+
+IN On
+
+
+Incoming Throttle Off
+
+
+Incoming Throttle On
+
+
+Msg
+
+
+New Xfers
+
+
+OUT Off
+
+
+OUT On
+
+
+OUT-S
+
+
+OUT-S Off
+
+
+OUT-S On
+
+
+OUT-T
+
+
+OUT-T Off
+
+
+OUT-T On
+
+
+Outgoing Throttle Off
+
+
+Outgoing Throttle On
+
+
+Outgoing Throttle Seeding Allocation Off
+
+
+Outgoing Throttle Seeding Allocation On
+
+
+Outgoing Throttle Trading Allocation Off
+
+
+Outgoing Throttle Trading Allocation On
+
+
+Rand Port
+
+
+Randomize Incoming Connection Port
+
+
+Refresh All RSS Feeds
+
+
+Refresh Feeds
+
+
+Refresh RSS Feed
+
+
+Shut Down
+
+
+Targets
+
+
+Task
+
+
+Xfer
+
+
+Xfers
+
+
+activating bandwidth throttle preset
+
+
+bandwidth auto limit off
+
+
+bandwidth auto limit on
+
+
+bandwidth auto limit on and target RTT set to
+
+
+channel message
+
+
+channel topic
+
+
+closing Tixati
+
+
+error saving configuration archive
+
+
+incoming bandwidth limit off
+
+
+incoming bandwidth limit on
+
+
+incoming bandwidth limit on and set to
+
+
+outgoing bandwidth limit off
+
+
+outgoing bandwidth limit on
+
+
+outgoing bandwidth limit on and set to
+
+
+outgoing bandwidth seeding allocation off
+
+
+outgoing bandwidth seeding allocation on
+
+
+outgoing bandwidth seeding allocation on and set to
+
+
+outgoing bandwidth trading allocation off
+
+
+outgoing bandwidth trading allocation on
+
+
+outgoing bandwidth trading allocation on and set to
+
+
+randomly setting incoming port to
+
+
+refreshing feed
+
+
+running task actions
+
+
+saved configuration archive
+
+
+shutting down system
+
+
+starting DHT
+
+
+starting category
+
+
+starting channel
+
+
+starting feed
+
+
+starting new feeds
+
+
+starting new transfers
+
+
+starting task affected targets
+
+
+starting task targets
+
+
+starting transfer
+
+
+stopping category
+
+
+stopping channel
+
+
+stopping feed
+
+
+stopping new feeds
+
+
+stopping new transfers
+
+
+stopping task affected targets
+
+
+stopping task targets
+
+
+stopping transfer
+
+
+timestamp
+
+
+
+
+/////// scheduler/SchedulerTask
+
+
+
+Every day
+
+
+Fridays
+
+
+Mondays
+
+
+Next run in
+
+
+Saturdays
+
+
+Scheduler Log Level
+
+
+Scheduler Log Lines
+
+
+Sundays
+
+
+Thursdays
+
+
+Tuesdays
+
+
+Wednesdays
+
+
+nothing
+
+
+running task
+
+
+skipped missed task
+
+
+
+
+/////// webui/WebUI
+
+
+
+Failed to listen on
+
+
+Listening on
+
+
+Listening socket failure on
+
+
+because this computer does not support IPv6
+
+
+
+
+/////// webui/WebUIConnection
+
+
+
+lines
+
+
+
+
+/////// xfer/Categories
+
+
+
+in category
+
+
+load
+
+
+save
+
+
+set
+
+
+
+
+/////// xfer/OutputFile
+
+
+
+Allocating
+
+
+Checking
+
+
+Destination file too large
+
+
+Error flushing destination file
+
+
+Error getting destination file info
+
+
+Error opening destination file
+
+
+Error reading destination file
+
+
+Error scanning source file
+
+
+Error seeking destination file
+
+
+Error sparse-testing destination file
+
+
+Error testing destination file
+
+
+Error writing destination file
+
+
+Internal move failure
+
+
+Need to check
+
+
+Seq
+
+
+Waiting to finalize
+
+
+Waiting to retry move after temporary error
+
+
+actual
+
+
+but file is
+
+
+cancelled file move
+
+
+changed path to
+
+
+due to error reading edge file
+
+
+edge file missing
+
+
+error allocating file
+
+
+error checking LMTime after opening
+
+
+error checking size after opening
+
+
+error creating directory
+
+
+error creating directory for destination file
+
+
+error flushing file while allocating
+
+
+error getting file info
+
+
+error moving
+
+
+error opening
+
+
+error opening file for allocation
+
+
+error reading
+
+
+error reading begin edge file
+
+
+error reading end edge file
+
+
+error scanning file for allocation
+
+
+error scanning file while allocating
+
+
+error seeking
+
+
+error seeking file for allocation
+
+
+error seeking file while allocating
+
+
+error sparse-testing file while allocating
+
+
+error writing
+
+
+error writing edge file
+
+
+error writing file while allocating
+
+
+existing directory with same name as file
+
+
+fast-moving file
+
+
+file LM time mismatch, expected
+
+
+file complete
+
+
+file created
+
+
+file download priority set to
+
+
+file missing
+
+
+file sequential mode set to
+
+
+file sequential mode set to off
+
+
+file sequential mode set to on
+
+
+file size mismatch, expected
+
+
+file too large
+
+
+file too short
+
+
+force check to override
+
+
+found new file with LM time
+
+
+hash-check requested
+
+
+left
+
+
+lost begin edge piece
+
+
+lost end edge piece
+
+
+minutes after temporary error opening destination file for move
+
+
+moving to
+
+
+opened file for move after temporary errors
+
+
+post-complete redundant file hash-check
+
+
+reading file
+
+
+running per-file shell command on transfer completion
+
+
+running shell command on file completion
+
+
+size mismatch, expected
+
+
+source file too large
+
+
+will retry for up to
+
+
+
+
+/////// xfer/OutputFolders
+
+
+
+Mixed
+
+
+fast-moving folder
+
+
+folder
+
+
+
+
+/////// xfer/Peer
+
+
+
+Bad Data
+
+
+Bad infohash in handshake
+
+
+Bad protocol id in handshake
+
+
+Block request buffer overflow
+
+
+Block request invalid length
+
+
+Block request invalid piece
+
+
+Block requests too scattered
+
+
+Both peers complete
+
+
+Client filtered locally
+
+
+Cookie
+
+
+Error Connecting
+
+
+HTTP no range support
+
+
+HTTP redirect does not match file path
+
+
+HTTP response invalid
+
+
+HTTP response overflow
+
+
+HTTP response size mismatch
+
+
+HTTP response unexpected
+
+
+HTTP server error
+
+
+IP Filtered
+
+
+IP protocol not allowed in settings
+
+
+Ignored
+
+
+Internal data req failed
+
+
+Internal data req mismatch
+
+
+Internal error
+
+
+Invalid block request
+
+
+Invalid incoming message size
+
+
+Invalid metadata msg type
+
+
+Invalid metadata piece index
+
+
+Invalid metadata total size
+
+
+Invalid port number
+
+
+Invalid web seed URL
+
+
+LC
+
+
+LI
+
+
+LQ
+
+
+Meta web seed not needed
+
+
+Metadata DL internal error
+
+
+Metadata data msg size mismatch
+
+
+Metadata index mismatch
+
+
+Metadata missing total size
+
+
+Metadata not supported
+
+
+Metadata request overflow
+
+
+Metadata xfer not
+
+
+Oversize DHT port message
+
+
+Oversize extended handshake message
+
+
+Oversize peer exchange message
+
+
+Peer requested end block with offset past end of data
+
+
+Peer requested incomplete block
+
+
+Peer requested not announced block
+
+
+Proxy settings won't allow connection
+
+
+RC
+
+
+RI
+
+
+RQ
+
+
+Received bad HAVE message
+
+
+Received bad HAVE message piece index
+
+
+Received bad bitfield
+
+
+Received bad block request
+
+
+Received bad block request cancellation
+
+
+Received invalid data block
+
+
+Received null data block
+
+
+Received unexpected bitfield
+
+
+Rejected data block
+
+
+Remote disconnected
+
+
+Self connect
+
+
+Timed out connecting
+連接超時
+
+Timed out logging in
+
+
+Too many unknown messages
+
+
+Transfering
+
+
+Unexpected metadata message
+
+
+Unknown metadata ext message
+
+
+Unsupported web seed protocol
+
+
+Weak crypto remote key
+
+
+Web seed can not connect without metadata
+
+
+bad HTTP chunked encoding
+
+
+bad HTTP redirect
+
+
+block received not in request stack
+
+
+cache block used to fill request for piece
+
+
+cache cleared
+
+
+cache cleared, deleted
+
+
+cache reading blocks from disk
+
+
+cache set to piece
+
+
+connection closed, reconnecting web
+
+
+discarding queued block request, remote has since sent HAVE message for piece
+
+
+discarding unknown message
+
+
+dropped redundant HAVE message for piece
+
+
+dropping block request received from complete remote
+
+
+dropping block request received while remote choked
+
+
+dropping block request received while remote not interested
+
+
+dropping block request that is already queued
+
+
+dropping block request, remote already claims to have piece
+
+
+dropping redundant metadata message for index
+
+
+expired local block request
+
+
+file not found on HTTP server
+
+
+local unchoked remote
+
+
+logged in
+
+
+main UDP socket not ready
+
+
+no attached piece matches received block
+
+
+not authorized on HTTP server
+
+
+over rate limit
+
+
+pieces complete
+
+
+received bitfield
+
+
+received block
+
+
+received block already downloaded from this peer
+
+
+received block request
+
+
+received block request cancellation
+
+
+received cancellation for unmatched block request
+
+
+received keep-alive message
+
+
+received metadata for index
+
+
+received request for metadata at index
+
+
+rejected metadata request because we don't have complete metadata yet
+
+
+remote choked local
+
+
+remote dropped piece
+
+
+remote has piece
+
+
+remote interested in local
+
+
+remote not interested in local
+
+
+remote rejected request for metadata at index
+
+
+remote unchoked local
+
+
+requested metadata piece
+
+
+sent HTTP request
+
+
+sent bitfield
+
+
+unknown
+
+
+
+
+/////// xfer/Peers
+
+
+
+available
+可用的
+
+fast reconnect
+
+
+peers connected
+
+
+seeds connected
+
+
+
+
+/////// xfer/PieceManager
+
+
+
+discarded
+
+
+for download
+
+
+incomplete pieces from old disk cache
+
+
+incomplete-pieces.
+
+
+initializing piece
+
+
+loaded
+
+
+not needed
+
+
+scanned
+
+
+
+
+/////// xfer/SLRD
+
+
+
+Secure Local Resource Discovery could not open multicast socket
+
+
+Secure Local Resource Discovery listening for UDP multicast on
+
+
+Secure Local Resource Discovery multicast socket closed
+
+
+Secure Local Resource Discovery stopped listening
+
+
+will retry every
+
+
+
+
+/////// xfer/Torrent
+
+
+
+Error downloading
+
+
+Error opening meta-file
+
+
+Error parsing meta-file
+
+
+Error reading URL file
+
+
+Error reading meta-file
+
+
+Invalid file system in meta-file
+
+
+Invalid hash data
+
+
+Invalid piece length in meta-file
+
+
+Meta-file not found
+
+
+completed DHT search, found
+
+
+creating transfer from feed
+
+
+creating transfer from hash link
+
+
+creating transfer from local files
+
+
+creating transfer from meta-file
+
+
+creation date
+
+
+cycled dead to seed standby queue
+
+
+cycled to seed standby queue
+
+
+date
+
+
+downloading initiated
+
+
+encoding
+
+
+entered queue
+
+
+entered standby seed queue
+
+
+info-hash set
+
+
+loading complete transfer
+
+
+loading transfer
+
+
+piece length
+
+
+post-complete redundant hash-check for all files
+
+
+pushed dead to seed standby queue
+
+
+pushed to seed standby queue
+
+
+renamed to avoid conflict
+
+
+running shell command on transfer completion
+
+
+seeding initiated
+
+
+
+
+/////// xfer/Torrents
+
+
+
+SSDP Local Peer Discovery could not open multicast socket
+
+
+SSDP Local Peer Discovery listening for local UDP multicast on
+
+
+SSDP Local Peer Discovery multicast socket unexpectedly closed
+
+
+SSDP Local Peer Discovery stopped listening
+
+
+will retry in
+
+
+
+
+/////// xfer/Tracker
+
+
+
+Announce error from server
+
+
+Connect error from server
+
+
+HTTP responded with code
+
+
+IPv4 disabled in settings
+
+
+IPv6 disabled in settings
+
+
+Invalid announce reply
+
+
+Invalid connect reply
+
+
+Invalid info hash
+
+
+Invalid peer ID
+
+
+Invalid reply
+
+
+Partial
+
+
+Sent announce, waiting for
+
+
+TTL
+
+
+Timed out announcing
+
+
+Tracker IP filtered
+
+
+Tracker failed with reason
+
+
+Tracker is skipped by individual tracker options
+
+
+UDP socket unavailable
+
+
+UDP trackers disabled in settings
+
+
+Unsupported protocol
+
+
+completed
+
+
+detected local port change, initiating tracker stop-start cycle
+
+
+downloaders
+
+
+failure reason
+
+
+incomplete
+
+
+interval
+
+
+min interval
+
+
+paused
+
+
+tracker HTTP code
+
+
+tracker HTTP request headers
+
+
+tracker HTTP response body
+
+
+tracker HTTP response headers
+
+
+tracker UDP request
+
+
+tracker UDP response
+
+
+tracker announcing
+
+
+tracker error
+
+
+tracker id
+
+
+tracker responded OK
+
+
+tracker stopped
+
+
+
+
+/////// xfer/constants
+
+
+
+AN
+
+
+Aggressive
+
+
+BN
+
+
+Peer Allowance
+
+
+Priority Group
+
+
+UH
+
+
+UL
+
+
+UMH
+
+
+Ultra Mega High
+
+
+VH
+
+
+VL
+
+
