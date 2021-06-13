@@ -27,7 +27,7 @@
 MIN@TW
 
 .description
-發部於https://xiaomi.shxj.pw/
+發部於https://github.com/vincent-chang-rightfighter
 
 
 
@@ -4956,7 +4956,7 @@ Select Folder For New Shortcut
 
 
 Add RSS Feed
-ㄗ
+
 
 Feed Parameters
 
