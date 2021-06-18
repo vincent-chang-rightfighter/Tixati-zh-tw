@@ -72,7 +72,7 @@ Yes
 
 
 Add
-增加
+添加
 
 Clear
 清除
@@ -1290,7 +1290,7 @@ Actions
 
 
 Active Transfers
-
+傳輸活動
 
 Add Category
 
@@ -1437,13 +1437,13 @@ Category
 類別
 
 Change Port
-更改埠
+更改埠號
 
 Change location of selected files upon completion
 
 
 Channels Detail
-頻道詳情
+頻道詳細資訊
 
 Check For Updates
 檢查更新
@@ -1500,10 +1500,10 @@ Copy Actions
 
 
 Copy Magnet Link
-
+複製磁力連結
 
 Copy Magnet Links
-
+複製磁力連結
 
 Create New Task
 
@@ -1515,7 +1515,7 @@ DHT
 
 
 DHT Detail
-
+DHT 詳細資訊
 
 Daily
 
@@ -1536,7 +1536,7 @@ Default
 預設
 
 Delay
-
+延遲
 
 Delete
 刪除
@@ -1545,7 +1545,7 @@ Description
 描述
 
 Detail Level
-
+詳細程度
 
 Detailed
 詳情
@@ -1554,7 +1554,7 @@ Details
 詳細資訊
 
 Diagnostics
-
+診斷
 
 Directory Access
 
@@ -1563,10 +1563,10 @@ Disconnect
 斷開連接
 
 Distributed Hash Table
-
+分散式 Hash 表
 
 Donate
-贊助斗內
+贊助原開發團隊
 
 Download
 下載
@@ -1587,19 +1587,19 @@ Edit
 編輯
 
 Edit Presets
-
+編輯預設
 
 Edit URLs
-
+編輯 URL
 
 Empty
-
+空
 
 Episode
 
 
 Error
-
+錯誤
 
 Event Log
 事件日誌
@@ -1632,13 +1632,13 @@ File Access
 
 
 File Bytes Transferred
-
+傳輸檔案 Bytes
 
 File Operations Log
 
 
 File Path
-
+檔案路徑
 
 FileSys Wait Detail
 
@@ -1650,10 +1650,10 @@ Find Nodes
 
 
 Find and Replace
-
+尋找並取代
 
 Font Size
-
+字體大小
 
 Force Announce
 強制 Announce
@@ -1680,7 +1680,7 @@ Full Height
 
 
 GUI Detail
-GUI 細節
+GUI 詳細資訊
 
 Get Peers
 
@@ -1692,13 +1692,13 @@ Hidden In Tray
 
 
 Hide
-
+隱藏
 
 High
 
 
 Horizonal Text
-
+水平方向文字
 
 Hour
 
@@ -1707,10 +1707,10 @@ Hours
 
 
 IP Filter
-
+IP 過濾器
 
 IPFilter Detail
-
+IP 過濾器 詳細資訊
 
 IPv4 Addrs
 
@@ -1725,16 +1725,16 @@ IPv6 Node Table
 
 
 Icon
-
+圖標
 
 Icon Only
-
+只有圖標
 
 Icons
 
 
 Ignore
-
+忽略
 
 Include all message details
 
@@ -1755,7 +1755,7 @@ Incoming Bytes
 下載 Bytes
 
 Incoming Connections
-
+連入的連接
 
 Incoming Packets
 
@@ -1794,7 +1794,7 @@ Lower
 
 
 Main Toolbar Style
-
+主工具列風格
 
 Matches
 
@@ -1803,7 +1803,7 @@ Memory Allocation Rate
 
 
 Memory State
-
+記憶體狀態
 
 Merge
 合併
@@ -1917,7 +1917,7 @@ Outgoing Peer Connections
 
 
 Outgoing Seeding/Trading
-
+上傳的種子/交易
 
 Outgoing Throttle
 
@@ -1953,19 +1953,19 @@ Phrase
 
 
 Piece Index
-
+分塊索引
 
 Pieces
 分塊
 
 Pieces Detail
-
+分塊的詳細資訊
 
 Ping
 
 
 Ports Detail
-
+埠號詳細資訊
 
 Priority
 優先度
@@ -1998,10 +1998,10 @@ Raise
 
 
 Randomize Incoming Port
-
+隨機下載埠號
 
 Receive Message
-
+接收訊息
 
 Refresh Selected Feeds
 
@@ -2025,28 +2025,28 @@ Remove Button Right-Click
 
 
 Remove Tracker
-
+移除 Tracker
 
 Rename
-
+重新命名
 
 Reset
-
+重設
 
 Reset All Windows
-
+重設所有視窗
 
 Reset Byte Counters
-
+重設 Byte 計數器
 
 Reset Match Counters
 
 
 Reset To Default
-
+重設回預設
 
 Reset to default
-
+重設回預設
 
 Responses
 
@@ -2076,10 +2076,10 @@ Same as DL Location
 
 
 Save
-
+儲存
 
 Scheduler
-
+排程器
 
 Search DHT
 
@@ -2106,7 +2106,7 @@ Seeds
 
 
 Select
-
+選取
 
 Selected Categories
 
@@ -2115,25 +2115,25 @@ Selected Feeds
 
 
 Selected Files
-
+選定檔案
 
 Selected Items
-
+選定項目
 
 Selected Peers
-
+選定用戶
 
 Selected Trackers
-
+選定 Trackers
 
 Selected Transfers
-
+選定傳輸
 
 Selected URLs
-
+選定 URLs
 
 Sequential
-
+順序的
 
 Set
 
@@ -2151,46 +2151,46 @@ Settings
 設定
 
 Show
-
+顯示
 
 Show Active Channel
 
 
 Show Buttons
-
+顯示按鈕
 
 Show Menu
-
+顯示選單
 
 Showing Normally
 
 
 Shut Down System
-
+關閉系統
 
 Shut Down System Immediately
-
+立即關閉系統
 
 Shut Down System When All Downloads Complete
-
+當所有下載完成關閉系統
 
 Shut Down System When All Transfers Complete
-
+當所有傳輸完成關閉系統
 
 Shutdown
-
+關機
 
 Sidebar
-
+側邊攔
 
 Simple
-
+簡單
 
 Skip Queue
-
+跳過排隊
 
 Small Icon
-
+小圖標
 
 Small Mixed Size Buttons
 
@@ -2199,13 +2199,13 @@ Small Same Sized Buttons
 
 
 Sort By
-
+排序方式
 
 Sortable View
-
+可排序視圖
 
 Specific
-
+特定
 
 Specific RSS
 
@@ -2226,7 +2226,7 @@ Start Selected Transfers
 
 
 Start/Stop
-
+開始/停止
 
 Statistics
 
@@ -2235,10 +2235,10 @@ Status
 狀態
 
 Status Filter
-
+狀態過濾器
 
 Stop All Transfers
-
+停止所有傳輸
 
 Stop Checking
 
@@ -2253,10 +2253,10 @@ Stop Selected Transfers
 
 
 Stress Test
-
+壓力測試
 
 Super Seeding
-
+超級種子
 
 Support Forum
 技術支援論壇
@@ -2265,7 +2265,7 @@ Switch Language
 
 
 System Detail
-
+系統詳細資訊
 
 Tab View
 標籤視圖
@@ -2289,10 +2289,10 @@ Text
 文字
 
 Text Filter
-
+文字過濾器
 
 Text Only
-
+只有文字
 
 Time
 時間
@@ -2304,10 +2304,10 @@ Topic
 標題
 
 Total Bytes
-
+總 Bytes
 
 Total Bytes Transferred
-
+總傳輸 Bytes 
 
 Tracker
 
@@ -2319,16 +2319,16 @@ Trading Allocation
 
 
 Transfer Counts
-
+傳輸計數
 
 Transfer Submenu
 
 
 Transfers Detail
-
+傳輸詳細資訊
 
 Tree View
-
+樹狀視圖
 
 Turn Off
 關閉
@@ -2355,13 +2355,13 @@ Undo Last Remove
 取消最後移除
 
 Unignore
-
+忽略
 
 Upload Ratio Limit
-
+上傳比例限制
 
 Upload Time Limit
-
+上傳時間限制
 
 Use Default Setting
 使用預設設定
@@ -2679,7 +2679,7 @@ Outgoing message may not be currently visible to other users
 
 
 Owner
-
+擁有者
 
 Paste
 
@@ -2691,10 +2691,10 @@ Play Stream
 
 
 Private message
-
+私信
 
 Public Key
-
+公鑰
 
 Quiet
 
@@ -2712,7 +2712,7 @@ Reply to a message that has been removed
 
 
 Save Changes
-
+儲存變更
 
 Segment Divider
 
@@ -2859,7 +2859,7 @@ Match
 
 
 Network
-
+網路
 
 Not all users were searched.
 
@@ -2916,7 +2916,7 @@ Remove Selected Contacts
 
 
 Window
-
+視窗
 
 
 
@@ -3174,7 +3174,7 @@ Base
 
 
 Disabled in settings
-
+在設定中關閉
 
 Force rarest-first distribution of pieces
 
@@ -3195,7 +3195,7 @@ Local Peer ID
 
 
 Magnet Links
-
+磁力連結
 
 Manually Add Peer
 
@@ -3225,7 +3225,7 @@ Search and announce
 搜尋和公告
 
 Search only
-
+只搜尋
 
 Search/Announce Mode
 搜尋/公告 模式
@@ -3264,7 +3264,7 @@ Web Seed URL
 
 
 recommended
-
+推薦
 
 
 
@@ -6798,7 +6798,7 @@ Once the meta-info has been built, a magnet-link or
 
 
 Open Magnet-Link
-
+開啟 磁力連結
 
 PEX peer exchange and DHT will not be used to find peers in any transfer that has the PRIVATE flag set.
 
@@ -8001,7 +8001,7 @@ Waiting for shared data, please stand
 
 
 Received
-
+收到
 
 at
 
@@ -9096,7 +9096,7 @@ links found
 
 
 new seed
-
+新建種子
 
 no files have been selected
 
@@ -9228,16 +9228,16 @@ Connecting
 連接中
 
 Download complete
-
+下載完成
 
 Downloading feed items from
 
 
 ERROR
-
+錯誤
 
 Failed
-
+失敗
 
 GET
 
@@ -9597,7 +9597,7 @@ DHT search complete
 
 
 Expires
-
+到期
 
 Found
 
@@ -10056,7 +10056,7 @@ pinging hint
 
 
 port unconfirmed
-
+連接埠未確認
 
 timed out waiting for response from
 
@@ -10089,13 +10089,13 @@ table added node
 
 
 Expired
-
+已到期
 
 Expires in
-
+過期於
 
 Uncertain
-
+不確定
 
 received ping error response
 
@@ -10107,7 +10107,7 @@ refresh pinging
 
 
 timed out waiting for response
-
+超時,等待回應
 
 
 
@@ -10131,19 +10131,19 @@ IPv4
 
 
 IPv4 Node-gathering search
-
+IPv4 節點收集搜尋
 
 IPv6 Node-gathering search
-
+IPv6 節點收集搜尋
 
 node gathering search started
-
+節點收集搜尋開始
 
 search complete
-
+搜尋完畢
 
 search started
-
+搜尋開始
 
 
 
@@ -10191,10 +10191,10 @@ requesting peers
 
 
 IPv4 nodes
-
+IPv4 節點
 
 IPv6 nodes
-
+IPv6 節點
 
 failed to resolve backup hint
 
@@ -10218,7 +10218,7 @@ trying search hint
 
 
 Node Table
-
+節點列表
 
 buckets
 
@@ -10821,7 +10821,7 @@ Targets
 
 
 Task
-
+任務
 
 Xfer
 
@@ -10956,7 +10956,7 @@ stopping transfer
 
 
 timestamp
-
+時間戳記
 
 
 
@@ -10965,19 +10965,19 @@ timestamp
 
 
 Every day
-
+每天
 
 Fridays
-
+每週五
 
 Mondays
-
+每週一
 
 Next run in
-
+下一次執行在
 
 Saturdays
-
+每週六
 
 Scheduler Log Level
 
@@ -10986,25 +10986,25 @@ Scheduler Log Lines
 
 
 Sundays
-
+每週日
 
 Thursdays
-
+每週四
 
 Tuesdays
-
+每週二
 
 Wednesdays
-
+每週三
 
 nothing
 
 
 running task
-
+執行任務
 
 skipped missed task
-
+跳過錯過的任務
 
 
 
@@ -11040,16 +11040,16 @@ lines
 
 
 in category
-
+類別中
 
 load
-
+載入
 
 save
-
+儲存
 
 set
-
+設定
 
 
 
@@ -11919,7 +11919,7 @@ Unsupported protocol
 
 
 completed
-
+已完成
 
 detected local port change, initiating tracker stop-start cycle
 
@@ -11928,19 +11928,19 @@ downloaders
 
 
 failure reason
-
+失敗原因
 
 incomplete
-
+不完整
 
 interval
-
+間隔
 
 min interval
-
+最小間隔
 
 paused
-
+暫停
 
 tracker HTTP code
 
