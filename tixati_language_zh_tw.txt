@@ -1026,250 +1026,250 @@ unknown error
 
 
 Address too long for proxy protocol
-
+Proxy 協議地址太長
 
 Bad HTTP redirect
-
+錯誤的 HTTP 重新定向
 
 Bad SSL data
-
+錯誤的 SSL 資料
 
 Bad reply after sending command
-
+發送指令後響應錯誤
 
 Bad reply while fetching commands
-
+獲得指令時響應錯誤
 
 Circular HTTP redirect
-
+HTTP 循環重新定向
 
 Connection dropped during SSL negotiation
-
+SSL 握手期間斷線
 
 Connection failed from proxy
-
+Proxy 連線失敗
 
 Connection refused from proxy
-
+Proxy 連線拒絕
 
 Connection reset
-
+連線重設
 
 Connection timed out
-
+連線超時
 
 Control URL not found in reply
 
 
 Could not access shell
-
+無法訪問 shell
 
 Could not find any router services
-
+找不到任何路由服務
 
 Empty destination address
-
+空目標位址
 
 HTTP chunked encoding error
-
+HTTP 分塊編碼錯誤
 
 HTTP gzip encoding error
-
+HTTP 壓縮編碼錯誤
 
 HTTP proxy does not support CONNECT method
-
+HTTP Proxy 不支援"連線"方法
 
 HTTP request body overflow
-
+HTTP 請求主體溢出
 
 HTTP request header overflow
-
+HTTP 請求標頭溢出
 
 HTTP request path contains ctrl chars
-
+HTTP 請求路徑包含 ctrl 字元
 
 HTTP request pipeline overflow
-
+HTTP 請求管道溢出
 
 HTTP response header overflow
-
+HTTP 響應標頭溢出
 
 Host not found
 找不到主機
 
 Host unreachable from proxy
-
+無法從 Proxy 訪問主機
 
 Insufficient router resources
-
+路由器資源不足
 
 Invalid address for proxy protocol
-
+Proxy協議地址無效
 
 Invalid control URL
 
 
 Invalid device URL
-
+無效的設備 URL
 
 Invalid gateway address
-
+無效的閘道器地址
 
 Invalid port
-
+無效埠號
 
 Invalid proxy reply
-
+Proxy 無效回復
 
 Invalid response
-
+無效響應
 
 Line overflow
-
+行溢出
 
 Login/pass too long for proxy protocol
-
+Proxy 協議的登陸/通行時間太長
 
 Mapping not on same port
-
+映射不在同一個埠號上
 
 Max hops exceeded
-
+超過最大跳數
 
 Missing port number
-
+缺少埠號
 
 Network unreachable from proxy
-
+Proxy 無法訪問網路
 
 No SSL cert available
-
+沒有可用的 SSL 證書
 
 Operation failed on router
-
+路由器上操作失敗
 
 Proxy auth failed
-
+Proxy 身分驗證錯誤
 
 Proxy auth method not supported
-
+Proxy 不支援身分驗證方法
 
 Proxy bind command failed
-
+Proxy 綁定命令失敗
 
 Proxy bind relay IP protocol mismatch
-
+Proxy 綁定中繼 IP 協議不匹配
 
 Proxy connection SSL error
-
+Proxy 連線 SSL 錯誤
 
 Proxy connection refused
-
+Proxy 連線被拒絕
 
 Proxy connection timed out
-
+Proxy 連線超時
 
 Proxy could not resolve host name
-
+Proxy 無法解析主機名稱
 
 Proxy did not return remote IP
-
+Proxy 為回傳遠端 IP
 
 Proxy dropped connection
-
+Proxy 失去連線
 
 Proxy dropped connection while negotiating
-
+Proxy 握手時失去連線
 
 Proxy host not found
-
+找不到 Proxy 主機 
 
 Proxy host unreachable
-
+無法訪問 Proxy　主機
 
 Proxy network unreachable
-
+無法訪問 Proxy 網路
 
 Proxy permission denied
-
+Proxy 權限被拒絕
 
 Proxy protocol not supported
-
+不支援 Proxy 協議
 
 Proxy refused UDP connection
-
+Proxy 拒絕 UDP 連線
 
 Proxy unsupported IP protocol
-
+Proxy 不支援的 IP 協議
 
 Reply overflow after sending command
-
+發送命令後回復溢出
 
 Reply overflow while fetching commands
-
+獲取命令時回復溢出
 
 SSL buffer overflow
-
+SSL 緩衝溢出
 
 SSL error sending
-
+SSL 發送錯誤
 
 Session interrupted
-
+會話中斷
 
 Socks
 
 
 TCP disabled in proxy settings
-
+在 Proxy 中禁用 TCP
 
 Timed out
 超時
 
 Timed out in SSL negotiation
-
+SSL 握手超時
 
 Timed out resolving host
-
+解析主機超時
 
 Timed out resolving proxy host
-
+解析 Proxy 主機超時
 
 Timed out searching for commands
-
+探索命令超時
 
 Timed out sending HTTP response
-
+發送 HTTP 響應超時
 
 Timed out waiting for HTTP request
-
+等待 HTTP 請求超時
 
 Timed out waiting for HTTP response
-
+等待 HTTP 響應超時
 
 Too many HTTP redirects
-
+太多 HTTP 重定向
 
 UDP disabled in proxy settings
-
+在 Proxy 設定中禁用 UDP
 
 Unexpected HTTP request
-
+意外的 HTTP 請求
 
 Unexpected HTTP response
-
+意外的 HTTP 響應
 
 Unsupported HTTP content encoding
-
+不支援的 HTTP 內容編碼
 
 Unsupported HTTP transfer encoding
-
+不支援的 HTTP 傳輸編碼
 
 device not found
-
+找不到設備
 
 proxy does not support IPv6
-
+Proxy 不支援 IPv6
 
 
 
@@ -1281,55 +1281,55 @@ About Tixati
 關於 Tixati
 
 Above Normal
-高於一般
+高於正常
 
 Action
-
+操作
 
 Actions
-
+操作
 
 Active Transfers
 傳輸活動
 
 Add Category
-
+增加類別
 
 Add Preset
-
+增加預設
 
 Address
 地址
 
 Affected
-
+影響
 
 All
 全部
 
 All Feeds
-
+所有源
 
 All RSS Feeds
-
+所有 RSS 源
 
 All Targets
-
+所有目標
 
 All Transfers
-
+所有傳輸
 
 Allow Drags To Status
-
+允許拖動到狀態
 
 Allow System Suspend
-
+允許系統休眠
 
 Allow System Suspend When All Downloads Complete
-
+所有下載完成時允許系統休眠
 
 Allow System Suspend When All Transfers Complete
-
+所有傳輸完成時允許系統休眠
 
 Announce
 
@@ -1338,70 +1338,70 @@ Any
 
 
 Apply Locations To Existing Transfers
-
+將位置套用到存在的傳輸
 
 Apply Preset
-
+套用預設
 
 Attached Peer Count
-
+附加 Peer 計數
 
 Auto Limit
 自動限制
 
 Auto Limit Details
-
+自動限制 詳細資訊
 
 Auto Limit Ping Chart
-
+自動限制 Ping 圖表
 
 Auto-Shutdown
-
+自動關機
 
 Auto-Start New Feeds
-
+自動起動新源
 
 Auto-Start New Transfers
-
+自動啟動新傳輸
 
 Auto-Startup
 自動啟動
 
 Backscroll Lines
-
+顯示行數
 
 Backup All Config Files
-
+備份所有設定檔
 
 Bandwidth Quotas
-
+時段限速
 
 Basic events
-
+基本事件
 
 Basic status changes
-
+基本狀態更改
 
 Below Normal
-低於一般
+低於正常的
 
 Bottom Pane
 底部窗格
 
 Browse for new
-
+瀏覽新的
 
 Browse for new MOC location
-
+瀏覽新的 MOC 位置
 
 Browse for new downloading location
-
+瀏覽新的下載位置
 
 Browse for new location
-
+瀏覽新的位置
 
 Browse for new seeding location
-
+瀏覽新作種位置
 
 Bytes In
 下載 Bytes
@@ -1422,10 +1422,10 @@ Cancel Download
 取消下載
 
 Cancel Move In Progress
-
+取消正在進行的移動
 
 Cancel Pending Announce
-
+取消等待的 Announce
 
 Cancel Refresh
 取消重新整理
@@ -1440,7 +1440,7 @@ Change Port
 更改埠號
 
 Change location of selected files upon completion
-
+完成後更改所選文件位置
 
 Channels Detail
 頻道詳細資訊
@@ -1461,19 +1461,19 @@ Close Tixati When All Transfers Complete
 當所有傳輸完成時，關閉 Tixati
 
 Column
-
+列
 
 Compact Buttons
-
+緊湊型按鈕
 
 Complete Bytes
-
+完成 Bytes
 
 Complete Percent
-
+完成百分比
 
 Composite
-
+混合
 
 Connect
 連接
@@ -1482,13 +1482,13 @@ Connection Pacer
 
 
 Constant Seeding
-
+持續做種
 
 Constant Seeds
 
 
 Context
-
+背景
 
 Controls on Right
 
@@ -1497,7 +1497,7 @@ Copy
 複製
 
 Copy Actions
-
+複製操作
 
 Copy Magnet Link
 複製磁力連結
@@ -1506,10 +1506,10 @@ Copy Magnet Links
 複製磁力連結
 
 Create New Task
-
+建立新任務
 
 Cycle
-
+循環
 
 DHT
 
@@ -1518,19 +1518,19 @@ DHT Detail
 DHT 詳細資訊
 
 Daily
-
+每天
 
 Day
-
+天
 
 Days
 
 
 Decentralized Tracking
-
+分散追蹤
 
 Decrease
-
+減少
 
 Default
 預設
@@ -1557,10 +1557,10 @@ Diagnostics
 診斷
 
 Directory Access
-
+目錄訪問
 
 Disconnect
-斷開連接
+斷開連線
 
 Distributed Hash Table
 分散式 Hash 表
@@ -1572,16 +1572,16 @@ Download
 下載
 
 Downloading Default
-
+下載預設值
 
 Downloading Location
-
+下在位置
 
 Downloads
 下載
 
 Dropped
-
+下降
 
 Edit
 編輯
@@ -1596,7 +1596,7 @@ Empty
 空
 
 Episode
-
+片段
 
 Error
 錯誤
@@ -1605,49 +1605,49 @@ Event Log
 事件日誌
 
 Exact
-
+準確的
 
 Exclude
-
+排除
 
 Exclude Selected Categories
-
+排除所選類別
 
 Exclude Selected Feeds
-
+排除所選源
 
 Exclude Selected Transfers
-
+排除所選傳輸
 
 Exit
 離開
 
 Feed Items
-
+Feed 項目
 
 File
 檔案
 
 File Access
-
+檔案存取
 
 File Bytes Transferred
 傳輸檔案 Bytes
 
 File Operations Log
-
+文件操作日誌
 
 File Path
 檔案路徑
 
 FileSys Wait Detail
-
+文件系統等待詳細資訊
 
 Files
 檔案
 
 Find Nodes
-
+尋找節點
 
 Find and Replace
 尋找並取代
@@ -1662,46 +1662,46 @@ Force Check
 強制檢查
 
 Force Choke
-
+強制阻塞
 
 Force Reload
 強制重新載入
 
 Force Unchoke
-
+強制不阻塞
 
 From Other Task
-
+從其他任務
 
 Full Details
 全部詳細資訊
 
 Full Height
-
+全高
 
 GUI Detail
 GUI 詳細資訊
 
 Get Peers
-
+獲取 Peers
 
 Hasher Detail
-
+Hasher 詳細資訊
 
 Hidden In Tray
-
+最小化製系統欄
 
 Hide
 隱藏
 
 High
-
+高
 
 Horizonal Text
 水平方向文字
 
 Hour
-
+小時
 
 Hours
 
@@ -1713,22 +1713,22 @@ IPFilter Detail
 IP 過濾器 詳細資訊
 
 IPv4 Addrs
-
+IPv4 地址
 
 IPv4 Node Table
-
+IPv4 節點表
 
 IPv6
 
 
 IPv6 Node Table
-
+IPv6 節點表
 
 Icon
 圖標
 
 Icon Only
-只有圖標
+僅圖標
 
 Icons
 
@@ -1737,19 +1737,19 @@ Ignore
 忽略
 
 Include all message details
-
+包含所有訊息的詳細資訊
 
 Include message errors
-
+包含錯誤訊息
 
 Include search events
-
+包含搜尋事件
 
 Include table changes
-
+包含表的變化
 
 Include task details
-
+包含任務詳細資訊
 
 Incoming Bytes
 下載 Bytes
@@ -1758,28 +1758,28 @@ Incoming Connections
 連入的連接
 
 Incoming Packets
-
+連入封包
 
 Incoming Peer Connections
-
+連入 Peer 連線
 
 Incoming Throttle
-
+連入閥門
 
 Increase
-
+增加
 
 Item Added Time
-
+項目添加時間
 
 Last New Item
-
+最後新增項目
 
 License Agreement
 授權合約
 
 Link To Actions
-
+連接到操作
 
 Local Files
 本機檔案
@@ -1788,19 +1788,19 @@ Location
 位置
 
 Low
-
+低
 
 Lower
-
+更低
 
 Main Toolbar Style
 主工具列風格
 
 Matches
-
+相配
 
 Memory Allocation Rate
-
+記憶體分配率
 
 Memory State
 記憶體狀態
@@ -1812,76 +1812,76 @@ Message
 訊息
 
 Minimized In Taskbar
-
+任務欄中最小化
 
 Minute
-
+分鐘
 
 Minutes
 
 
 Mixed Size Buttons
-
+混合大小按鈕
 
 Move Down
-
+下移
 
 Move On Complete
-
+移動完成
 
 Move Up
-
+上移
 
 Name
 名字
 
 NetBase Detail
-
+NetBase 詳細資訊
 
 New Feeds
-
+新增源
 
 New RSS Feeds
-
+新增 RSS 源
 
 New Task
-
+新建任務
 
 New Transfers
-
+新增傳輸
 
 No Move On Complete
-
+無移動完成
 
 No logging
-
+無日誌紀錄
 
 Node ID
-
+節點 ID
 
 Non-Constant Seeds
-
+非持續做種
 
 Non-constant Seeds
 
 
 None
-
+無
 
 Normal
-一般
+正常
 
 Notify On Complete
-
+完成時通知
 
 OS Default
 系統預設
 
 Off
-
+關
 
 Once
-
+一次
 
 Online Help
 線上幫助
@@ -1890,43 +1890,43 @@ Open Folder
 開啟資料夾
 
 Open In Web Browser
-
+在瀏覽器開啟
 
 Open Web Link
-
+打開連結
 
 Optional Features
-
+可選功能
 
 Ordered
 
 
 Ordered View
-
+有敘視圖
 
 Originated Transactions
 
 
 Outgoing Bytes
-
+上傳 Bytes
 
 Outgoing Packets
-
+上傳數據封包
 
 Outgoing Peer Connections
-
+上傳 Peer 連線
 
 Outgoing Seeding/Trading
 上傳的種子/交易
 
 Outgoing Throttle
-
+上船筏門
 
 Override default location of selected files or folders
-
+取代預設位置選定的檔案及資料夾
 
 Peer
-用戶
+
 
 Peer DB
 
@@ -1938,13 +1938,13 @@ Peer DB Peers
 
 
 Peers
-用戶
+
 
 Peers Detail
-
+Peers 詳細資訊
 
 Percent Complete
-
+完成百分比
 
 Persist After Restart
 
@@ -1953,13 +1953,13 @@ Phrase
 
 
 Piece Index
-分塊索引
+文件分塊索引
 
 Pieces
-分塊
+文件分塊
 
 Pieces Detail
-分塊的詳細資訊
+文件分塊的詳細資訊
 
 Ping
 
@@ -1971,31 +1971,31 @@ Priority
 優先度
 
 Processed Transactions
-
+以處理傳輸
 
 Progress
 進度
 
 Queries
-
+查詢
 
 Queue Next
-
+下一個排隊
 
 Queued Searches
-
+排隊查詢
 
 RSS
 
 
 RSS Detail
-
+RSS 詳細資訊
 
 RSS URLs
-
+RSS 網址
 
 Raise
-
+提高
 
 Randomize Incoming Port
 隨機下載埠號
@@ -2004,13 +2004,13 @@ Receive Message
 接收訊息
 
 Refresh Selected Feeds
-
+重新整理選擇源
 
 Regex
-
+正則表達
 
 Remote Seed Limit
-
+遠端種子限制
 
 Removal is permanent after
 
@@ -2019,10 +2019,10 @@ Remove And Delete Local Files
 移除並刪除檔案
 
 Remove Button Left-Click
-
+左鍵移除按鈕
 
 Remove Button Right-Click
-
+右鍵移除按鈕
 
 Remove Tracker
 移除 Tracker
@@ -2040,7 +2040,7 @@ Reset Byte Counters
 重設 Byte 計數器
 
 Reset Match Counters
-
+重設相配計數器
 
 Reset To Default
 重設回預設
@@ -2049,31 +2049,31 @@ Reset to default
 重設回預設
 
 Responses
-
+回應
 
 Restart All Transfers
-
+重新啟動所有傳輸
 
 Reverse
-
+倒序
 
 Root Detail
-
+Root 詳細資訊
 
 Run Now
-
+立即執行
 
 Run Task Now
-
+立即執行任務
 
 Running Searches
-
+執行搜尋
 
 Same Sized Buttons
-
+大小相同按鈕
 
 Same as DL Location
-
+與下載位置相同
 
 Save
 儲存
@@ -2082,10 +2082,10 @@ Scheduler
 排程器
 
 Search DHT
-
+搜尋 DHT
 
 Searches
-
+搜尋
 
 Second
 秒
@@ -2094,49 +2094,49 @@ Seeding
 做種
 
 Seeding Allocation
-
+做種分配
 
 Seeding Default
-
+預設做種
 
 Seeding Location
-
+做種位置
 
 Seeds
-
+種子
 
 Select
 選取
 
 Selected Categories
-
+選取的類別
 
 Selected Feeds
-
+選取的源
 
 Selected Files
-選定檔案
+選取的檔案
 
 Selected Items
-選定項目
+選取的項目
 
 Selected Peers
-選定用戶
+選取的用戶
 
 Selected Trackers
-選定 Trackers
+選取的 Trackers
 
 Selected Transfers
-選定傳輸
+選取的傳輸
 
 Selected URLs
-選定 URLs
+選取的 URLs
 
 Sequential
 順序的
 
 Set
-
+設定
 
 Set Default
 設為預設
@@ -2154,7 +2154,7 @@ Show
 顯示
 
 Show Active Channel
-
+顯示啟動頻道
 
 Show Buttons
 顯示按鈕
@@ -2163,7 +2163,7 @@ Show Menu
 顯示選單
 
 Showing Normally
-
+正常顯示
 
 Shut Down System
 關閉系統
@@ -2193,10 +2193,10 @@ Small Icon
 小圖標
 
 Small Mixed Size Buttons
-
+小混和尺寸按鈕
 
 Small Same Sized Buttons
-
+小相同尺寸按鈕
 
 Sort By
 排序方式
@@ -2208,28 +2208,28 @@ Specific
 特定
 
 Specific RSS
-
+特定 RSS
 
 Split DL/Seed View
-
+拆分下載/種子視圖
 
 Standard Layout
-
+標準視圖
 
 Start Selected Categories
-
+啟動選取的類別
 
 Start Selected Feeds
-
+啟動選取的源
 
 Start Selected Transfers
-
+啟動選取的傳輸
 
 Start/Stop
 開始/停止
 
 Statistics
-
+統計資料
 
 Status
 狀態
@@ -2241,16 +2241,16 @@ Stop All Transfers
 停止所有傳輸
 
 Stop Checking
-
+停止檢查
 
 Stop Selected Categories
-
+停止選取的類別
 
 Stop Selected Feeds
-
+停止選取的源
 
 Stop Selected Transfers
-
+停止選取的傳輸
 
 Stress Test
 壓力測試
@@ -2262,7 +2262,7 @@ Support Forum
 技術支援論壇
 
 Switch Language
-
+Switch Language
 
 System Detail
 系統詳細資訊
@@ -2271,19 +2271,19 @@ Tab View
 標籤視圖
 
 Table Buckets
-
+統表
 
 Table Nodes
-
+表節點
 
 Targets Affected By Last Run
-
+受上次執行影響的目標
 
 Tasks Affecting New Feeds
-
+影響新源的任務
 
 Tasks Affecting New Transfers
-
+影響新轉移的任務
 
 Text
 文字
@@ -2292,7 +2292,7 @@ Text Filter
 文字過濾器
 
 Text Only
-只有文字
+僅文字
 
 Time
 時間
@@ -2316,7 +2316,7 @@ Trackers
 
 
 Trading Allocation
-
+交易分配
 
 Transfer Counts
 傳輸計數
@@ -2337,13 +2337,13 @@ Turn On
 開啟
 
 UPC Sockets Log
-
+UPC Sockets 日誌
 
 UPC Sockets Monitor
-
+UPC Sockets 監視器
 
 UPNP/NAT-PMP Log
-
+UPNP/NAT-PMP 日誌
 
 Ultra High
 最高
@@ -2373,10 +2373,10 @@ Very Low
 很低
 
 WebUI Detail
-
+WebUI 詳細資料
 
 Weekly
-
+每週
 
 When All Downloads Complete
 當全部下載完成
@@ -2385,28 +2385,28 @@ When All Transfers Complete
 當全部傳輸完成
 
 hour
-
+小時
 
 hours
-
+小時
 
 location
-
+位置
 
 minute
-
+分鐘
 
 minutes
-
+分鐘
 
 multiple
-
+多
 
 no presets
-
+無預設值
 
 none
-
+無
 
 on
 
@@ -2469,7 +2469,7 @@ Classic
 經典
 
 Clean
-
+清除
 
 Copy Link
 複製連結
@@ -2883,7 +2883,7 @@ Contacts
 聯絡人
 
 List
-
+列表
 
 
 
@@ -3111,7 +3111,7 @@ Local Files Location
 
 
 File Data
-
+文件資料
 
 Protocol
 協議
@@ -3165,7 +3165,7 @@ Include tracker events
 
 
 All peers stay unchoked
-
+全部 peers 保持非阻塞
 
 Always seed and do not consume a seeding slot
 
@@ -3180,13 +3180,13 @@ Force rarest-first distribution of pieces
 
 
 Forced DHT Search
-
+強制 DHT 搜尋
 
 Hash-ID
 
 
 Inactive
-
+非活動的
 
 Local Peer Discovery
 
@@ -3198,10 +3198,10 @@ Magnet Links
 磁力連結
 
 Manually Add Peer
-
+手動添加 Peer
 
 Maximum peer connections
-
+最大 peer 連接數
 
 Meta-Info
 
@@ -3210,25 +3210,25 @@ Meta-info File
 
 
 Move On Completion
-
+完成時移動
 
 PEX Peer Exchange
-
+PEX Peer 交換
 
 Port
 埠
 
 Search DHT Now
-
+立即搜尋 DHT
 
 Search and announce
-搜尋和公告
+搜尋並 announce
 
 Search only
-只搜尋
+僅搜尋
 
 Search/Announce Mode
-搜尋/公告 模式
+搜尋/Announce 模式
 
 Send And Receive LPD Messages
 
@@ -3249,10 +3249,10 @@ Stop on upload ratio above
 
 
 Upload Maximization
-
+上傳最大化
 
 Upon completion, move to this location
-
+完成後,移動到這個位置
 
 Use default ID
 使用預設 ID
@@ -3303,112 +3303,112 @@ URL
 
 
 Allow items without episode or date numbers
-
+允許沒有事件或日期的編號項目
 
 Auto-Start
-
+自動啟動
 
 Auto-download item KB
-
+自動下載項目 KB
 
 Auto-download item KiB
-
+自動下載項目 KiB
 
 Auto-download item file count limit
-
+自動下載項目檔案數量限制
 
 Auto-download item kB
-
+自動下載項目 kB
 
 Automatically download items
-
+自動下載項目
 
 Created Transfer Options
-
+已建立傳輸選項
 
 Downloaded Files Location
-
+下載檔案位置
 
 Episode Range
 
 
 Feed Processing Options
-
+源處理選項
 
 Feed URLs
-
+源 URLs
 
 Include item creation
-
+包含項目建立
 
 Include update details
-
+包含更新詳細資訊
 
 Include update summary
-
+包含更新總結
 
 Initial Update
-
+初始更新
 
 Item history size
-
+項目歷史紀錄大小
 
 Items In Feed
-
+訂閱源中的項目
 
 Items Out Of Feed
-
+訂閱源外的項目
 
 Last Update
-
+上次更新
 
 Magnet-link items eligible for auto-download
-
+可自動下載的磁力連結項目
 
 Max
-
+最大
 
 Maximum auto-downloads for same episode
-
+同一集的最大自動下載量
 
 Min
-
+分鐘
 
 Minimum feed update interval
-
+最短源更新週期
 
 Never
-
+從不
 
 New Items Today
-
+今天新項目
 
 New Items Yesterday
-
+昨天新項目
 
 New Items in Last
-
+上次新項目
 
 No limit
-
+無限制
 
 Normal Update
-
+正常更新
 
 Published Items
-
+已發表項目
 
 Total Items
-
+項目總數
 
 day
-
+天
 
 days
 
 
 min
-
+最小
 
 
 
@@ -3420,22 +3420,22 @@ Add a new rule, using selected rule as template.
 
 
 Adjust Based On Average Ping
-
+根據平均值調整
 
 Alternate Rules
-
+備用規則
 
 Auto Bandwidth Limiter
-
+自動頻寬限制
 
 Current Ping RTT ms
-
+現在 Ping RTT 毫秒
 
 Destination Host
-
+目標主機
 
 Edit selected rule.
-
+編輯選取的規則
 
 Gate
 
@@ -3444,31 +3444,31 @@ Gather up to
 
 
 High Ping RTT ms
-
+高 Ping RTT 毫秒
 
 Higher
-
+較高的
 
 Higher Ping RTT
-
+高 Ping RTT
 
 IPs
-
+IPs
 
 IPv4 only
-
+僅 IPv4
 
 IPv4 preferred
-
+偏好 IPv4
 
 IPv6 only
-
+僅 IPv6
 
 IPv6 preferred
-
+偏好 IPv6
 
 Include pings
-
+包含 pings
 
 Include throttle changes
 
@@ -3480,97 +3480,97 @@ Incoming
 
 
 Load
-
+載入
 
 Load from a
-
+載入到
 
 Local source IP address
 
 
 Longer Adjustment Intervals
-
+更長的調整周期
 
 Low Ping RTT ms
-
+低  Ping RTT 毫秒
 
 Lower Ping RTT
-
+較低的 Ping RTT 
 
 Maximum
-
+最大值
 
 Minimum
-
+最小值
 
 Minimum Outgoing kB/s
-
+最小值上傳 kB/s
 
 Much Higher
-
+更高
 
 Narrower Ping Tolerances
 
 
 Network mode
-
+網路模式
 
 Outgoing
 上傳
 
 Ping Setup
-
+Ping 設定
 
 Ping exact host
-
+Ping 準確主機
 
 Ping first IP from traceroute
 
 
 Remove selected rules.
-
+刪除選取規則
 
 Reset To Defaults
-
+重設至預設值
 
 Reset rules to system defaults.
-
+重設規則微系統預設值
 
 Restart Pinging
 
 
 Rules
-
+規則
 
 Save to a
-
+儲存為
 
 Skip first
-
+跳過第一個
 
 Skip private IPs
-
+跳過私有 IP
 
 Standard Rules
-
+標準規則
 
 Target Ping RTT Milliseconds
-
+目標 Ping RTT 毫秒
 
 Throttle
-
+節流
 
 Throttle Ratio
-
+節流比
 
 Wait
-
+等待
 
 leave blank for default
-
+預設值留空
 
 seconds between pings
-
+pings 之間的秒數
 
 
 
@@ -3579,16 +3579,16 @@ seconds between pings
 
 
 Bandwidth Presets
-
+頻寬預設
 
 Default For Downloading
-
+下載預設
 
 Default For Seeding
-
+做種預設
 
 Reset To Current
-
+重設為現在值
 
 
 
@@ -3600,70 +3600,70 @@ Clear Warning
 
 
 Next Reset
-
+下一次重設
 
 On
 
 
 On Limit Reached
-
+限制峰值
 
 On Limit Reset
-
+限制重設
 
 Quotas
-
+配額
 
 Remaining Bytes
-
+剩餘 Bytes
 
 Remove Selected Items
-
+刪除選取項目
 
 Reset Selected Items
-
+重設選取項目
 
 Restart Channels
 
 
 Restart DHT
-
+重新啟動 DHT
 
 Restart Feeds
-
+重新啟動源
 
 Restart Transfers
-
+重新啟動傳輸
 
 Select Bandwidth Preset
-
+選取頻寬預設
 
 Set Auto Limit
-
+設定自動限制
 
 Set Incoming KB/s Limit
-
+設定下載 KB/s 限制
 
 Set Outgoing KB/s Limit
-
+設定上傳 KB/s 限制
 
 Show Warning
-
+顯示警告
 
 Stop Channels
-
+停止頻道
 
 Stop DHT
-
+停止 DHT
 
 Stop Feeds
-
+停止源
 
 Stop Transfers
-
+停止傳輸
 
 Test Selected Items
-
+測試所有項目
 
 
 
@@ -3672,76 +3672,76 @@ Test Selected Items
 
 
 Append a magnet link to this text file when a new transfer starts
-
+當新傳輸開始添加磁力連結至這個文字檔案
 
 Append a magnet link to this text file when a transfer completes
-
+當傳輸完成添加磁力連結至這個文字檔案
 
 Capture
-
+抓取
 
 Delete file immediately after loading
-
+載入後立即刪除檔案
 
 File Auto-Select Preset
-
+檔案自動選擇預設
 
 Format
-
+格式
 
 Incoming B/s
-
+下載 B/s
 
 Load magnet links from
-
+從磁力連結載入
 
 Outgoing B/s
-
+上傳 B/s
 
 Override new transfer default
-
+取代新傳輸預設值
 
 Save a
-
+儲存為
 
 Standby Seeds
-
+備用種子
 
 Titles
-
+標題
 
 Total Transfers
-
+所有傳輸
 
 Transfer Complete
-
+傳輸完成
 
 Transfer Load
-
+傳輸載入
 
 and
-
+和
 
 file in this folder when a new transfer starts
-
+當檔案在這個資料夾傳輸開始
 
 file in this folder when a transfer completes
-
+當檔案在這個資料夾傳輸完成
 
 files
 檔案
 
 files created in or moved to this folder
-
+文件建立移動到此資料夾
 
 or
-
+或
 
 start with
-
+開始從
 
 to include time
-
+包含時間
 
 
 
@@ -3750,7 +3750,7 @@ to include time
 
 
 Find
-
+尋找
 
 
 
@@ -3759,7 +3759,7 @@ Find
 
 
 Read Next
-
+閱讀下一頁
 
 
 
@@ -3780,19 +3780,19 @@ Send
 
 
 Audio/Video File
-
+音訊/影片檔案
 
 B/s
 
 
 Clear List
-
+清除列表
 
 Display Title
-
+顯示標題
 
 Duration
-
+期間
 
 Embedded ID3
 
@@ -4041,10 +4041,10 @@ Batching
 
 
 Behavior
-
+行為
 
 Buttons
-
+按鈕
 
 Bytes In Charts
 
@@ -4092,7 +4092,7 @@ Color
 
 
 Color Scheme
-
+顏色方案
 
 Completely Exit Program
 完整退出程式
@@ -4125,10 +4125,10 @@ Custom
 
 
 Custom Colors
-
+自定義顏色
 
 Customized List
-
+自定義清單
 
 DHT Bootstrap Nodes
 
@@ -4140,7 +4140,7 @@ DHT mode for trackerless transfers
 
 
 Dark Background
-
+深色背景
 
 Decentralized Tracker
 
@@ -4248,10 +4248,10 @@ First working group
 
 
 Font
-
+字體
 
 Fonts
-
+字體
 
 Force node ID change
 
@@ -4266,7 +4266,7 @@ Fully independent property windows
 
 
 General
-
+一般
 
 Gi
 
@@ -4278,7 +4278,7 @@ HTTP
 
 
 Hidden
-
+隱藏
 
 Hide In System Tray
 
@@ -4335,7 +4335,7 @@ Interface IPs For Incoming Web Connections
 
 
 It gives a more consistant look with other programs.
-
+它提供了與其他程序更一致的外觀。
 
 It is more suitable for use in a dark environment and is easy on the eyes.
 
@@ -4359,7 +4359,7 @@ Level
 
 
 Light Background
-
+淺色背景
 
 Load Preset
 
@@ -4422,7 +4422,7 @@ Maximum simultaneous searches
 
 
 Menus
-
+選單
 
 Mi
 
@@ -4467,13 +4467,13 @@ Numbers In Charts
 
 
 OS Default Colors
-
+系統預設顏色
 
 Omit
 
 
 On some monitors this is easier to read.
-
+在某些螢幕上，更容易閱讀。
 
 Opens a decentralized sharing channel
 
@@ -4488,7 +4488,7 @@ Outgoing Peers
 
 
 Output Formatting
-
+輸出格式
 
 Password
 
@@ -4635,7 +4635,7 @@ Startup on transfers page
 
 
 Status Bar
-
+狀態欄
 
 Stop constant seeds on upload minutes above
 
@@ -4689,19 +4689,19 @@ Test In Web Browser
 
 
 These files can be used to save your customized color schemes, or to load color schemes that other users have created.
-
+這些文件可以保存自定義的配色方案，或載入其他使用者建立的配色方案。
 
 This scheme has bright text on a dark background.
-
+這個方案在深色背景上有明亮的文字。
 
 This scheme has dark text on a light background.
-
+這個方案在淺色背景上有深色文字。
 
 This scheme uses the default operating system colors for most items.
-
+這個方案對大多數項目使用操作系統預設顏色。
 
 Toolbars
-
+工具列
 
 Tooltips
 
@@ -4782,16 +4782,16 @@ User Authentication
 
 
 User Interface
-
+使用者介面
 
 Using a proxy to resolve names is not recommended for UDP because it can be slow and very few proxy servers support it.
 
 
 Visible
-
+可見的
 
 Web Interface
-
+網頁介面
 
 Week
 
@@ -4803,7 +4803,7 @@ Weeks
 
 
 Widget Styles
-
+窗口風格
 
 You can automatically backup your configuration on a regular basis by using the scheduler.
 
@@ -6177,7 +6177,7 @@ Error Saving Config File
 
 
 Behavior section.
-
+行為部分。
 
 Channel Forum Message
 
@@ -8325,7 +8325,7 @@ Channel Xfer Link
 
 
 Chart
-
+圖表
 
 Chart Background
 
@@ -8574,7 +8574,7 @@ List/Tree Sorted Row Background
 
 
 List/Tree Text
-
+列表/樹狀 文字
 
 Loading Download/Seed Text
 
@@ -8757,10 +8757,10 @@ Search Result
 
 
 Selection Background
-
+選擇背景
 
 Selection Text
-
+選擇文字
 
 Status Text
 
@@ -8907,16 +8907,16 @@ selected transfers
 
 
 Button
-
+按鈕
 
 Chat View
-
+聊天視圖
 
 Code View
-
+程式碼視圖
 
 List/Tree
-
+列表/樹狀
 
 System Default
 
@@ -8928,13 +8928,13 @@ Text Entry
 
 
 Text View
-
+文字視圖
 
 The quick brown fox jumps over the lazy dog.
 
 
 Toolbar
-
+工具列
 
 
 
