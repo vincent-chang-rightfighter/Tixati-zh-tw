@@ -1689,7 +1689,7 @@ Hasher Detail
 Hasher 詳細資訊
 
 Hidden In Tray
-最小化製系統欄
+最小化至系統欄
 
 Hide
 隱藏
@@ -3798,46 +3798,46 @@ Embedded ID3
 
 
 File Name
-
+檔案名稱
 
 Folder
 資料夾
 
 Intermission
-
+間歇期
 
 Pause the stream for a specified duration
 
 
 Previous Item's Title
-
+上一個項目的標題
 
 Randomize Order
-
+隨機畫順序
 
 Refresh All
-
+全部重新整理
 
 Relay any live HTTP stream
 
 
 Repeat List Continuously
-
+連續重複列表
 
 Resume After Channel Restart
 
 
 Save Playlist
-
+儲存播放清單
 
 Stop All
-
+全部停止
 
 Stop Streaming
-
+停止串流
 
 Stream
-
+串流
 
 Stream From Offset
 
@@ -3849,22 +3849,22 @@ Stream ICY-MetaData
 
 
 Stream Selected Item
-
+串流選取項目
 
 Stream any
-
+串留任何
 
 Streaming HTTP Connection
-
+HTTP 連線串流
 
 Title
-
+標題
 
 audio or
-
+音樂或
 
 video file at its encoded bitrate
-
+視訊檔案的編碼位元率
 
 
 
@@ -3873,7 +3873,7 @@ video file at its encoded bitrate
 
 
 Size
-
+尺寸
 
 
 
@@ -3927,22 +3927,22 @@ Accept Non-Matches
 
 
 Accept either
-
+接受其中一個
 
 Activate Channels Feature
-
+啟動頻道功能
 
 Activate IP Filter Feature
-
+啟動 IP 過濾器功能
 
 Activate RSS Feature
-
+啟動 RSS 功能
 
 Activate Scheduler Feature
-
+啟動排程器功能
 
 Activate Web Interface
-
+啟動網頁介面
 
 Activate main window when new transfers are loaded
 
@@ -3954,13 +3954,13 @@ Adjust individual colors within the current scheme
 
 
 Advanced Socket Options
-
+進階 Socket 選項
 
 Advanced options for the allocation and handling of local files, including post-processing via external commands
 
 
 All groups
-
+全部群組
 
 Allow UDP tracker connections
 
@@ -3969,13 +3969,13 @@ Allow deletion of created transfer local files
 
 
 Applies To
-
+套用至
 
 Auto Start
-
+自動啟動
 
 Auto Torrent Downloader
-
+自動種子下載器
 
 Auto node ID change interval
 
@@ -3987,58 +3987,58 @@ Auto-Deprioritize Bad Piece Threshold
 
 
 Auto-Deprioritize Bandwidth
-
+自動取消頻寬優先級
 
 Auto-Ignore Bad Piece Threshold
-
+自動忽略
 
 Auto-Reload
-
+自動重新載入
 
 Auto-Start Delay
 自動啟動延遲
 
 Auto-Start Options
-
+自動啟動選項
 
 Auto-Start Tixati With Computer
 開機自動啟動 Tixati
 
 Auto-download KB
-
+自動下載 KB
 
 Auto-download KiB
-
+自動下載 KiB
 
 Auto-download items
-
+自動下載項目
 
 Auto-download kB
-
+自動下載 kB
 
 Auto-manage slots
-
+自動管理槽
 
 Auto-select files in new transfers
-
+在薪傳輸中自動選取檔案
 
 Auto-start new item downloads
-
+自動啟動新項目下載
 
 Automatic reload interval
-
+自動重新載入週期
 
 Automatically open or save
-
+自動打開或儲存
 
 Backscroll Size
 
 
 Bandwidth Priority
-
+頻寬優先度
 
 Batching
-
+批處理
 
 Behavior
 行為
@@ -4047,10 +4047,10 @@ Buttons
 按鈕
 
 Bytes In Charts
-
+圖表中的 Bytes
 
 Change Now
-
+立即更改
 
 Change peer connection encryption preferences, maximum connections per transfer, maximum concurrent connection attemps, IPv6 mode, and local IP address binding
 
@@ -4074,22 +4074,22 @@ Channel Stream Playback
 
 
 Check For Update Now
-
+立即檢查更新
 
 Check Now
-
+立即檢查
 
 Check On Startup
-
+啟動時檢查
 
 Check for new Tixati version every week
-
+每週檢查新版 Tixati 
 
 Client Filter
-
+客戶端過濾器
 
 Color
-
+顏色
 
 Color Scheme
 顏色方案
@@ -4098,31 +4098,31 @@ Completely Exit Program
 完整退出程式
 
 Configure
-
+設置
 
 Confirm Delete
-
+確認刪除
 
 Confirm Delete/Trash
-
+確認刪除/丟棄
 
 Confirm Trash
-
+確認丟棄
 
 Control the announcing of multi-tracker torrents, and set filters to skip unwanted trackers
 
 
 Control the appearance of icons and text within menus, buttons, and toolbars
-
+選單,按鈕,工具欄外觀的圖標和文字
 
 Create Examples
-
+建立範例
 
 Creates a transfer
-
+建立傳輸
 
 Custom
-
+自訂
 
 Custom Colors
 自定義顏色
@@ -4131,61 +4131,61 @@ Customized List
 自定義清單
 
 DHT Bootstrap Nodes
-
+DHT 引導節點
 
 DHT mode for normal transfers
-
+正常傳輸的 DHT 模式
 
 DHT mode for trackerless transfers
-
+trackerless 傳輸的  DHT 模式
 
 Dark Background
 深色背景
 
 Decentralized Tracker
-
+分散 Tracker
 
 Decimal Character
-
+十進制符號
 
 Default Channel Options
-
+預設頻道選項
 
 Default Download Location
-
+預設下載位置
 
 Direct To Trash
-
+直達垃圾桶
 
 Direct reads
-
+直接讀取
 
 Directly move file/folder if possible when changing location
-
+當改變位置時如果可能的話直接移動檔案/文件夾 
 
 Disable
-
+停用
 
 Disable TCP
-
+停用 TCP
 
 Disable UDP
-
+停用 UDP
 
 Display Join/Leave Notifications
-
+顯示加入/離開通知 
 
 Display Timestamps
-
+顯示時間戳
 
 Display encrypted
-
+顯示加密
 
 Display full paths for all location shortcuts
-
+顯示完整路徑
 
 Double-click actions
-
+雙擊動作
 
 Download slots
 
@@ -4200,52 +4200,52 @@ Dual conn attempt non-pref proto skip minimum margin
 
 
 Duplicate transfer prompt
-
+重複傳輸提示
 
 Encrypted only
-
+僅加密
 
 Encrypted preferred
-
+偏好加密
 
 Error on missing downloaded files
-
+遺失下載文件的錯誤
 
 Event Logging
-
+事件紀錄
 
 Every
-
+每
 
 Every Day
-
+每天
 
 Every Hour
-
+每小時
 
 Every Week
-
+每週
 
 Export Configuration To File
-
+將設定檔導出成文件
 
 Fast Allocate
-
+快速分配
 
 File Only
-
+僅檔案
 
 File allocation
-
+檔案分配
 
 File completion shell commands
-
+文件完成 shell 指令
 
 File delete method
-
+檔案刪除方法
 
 First working group
-
+第一工作組
 
 Font
 字體
@@ -4254,16 +4254,16 @@ Fonts
 字體
 
 Force node ID change
-
+強制更改節點 ID 
 
 Forward Port On Router With UPNP
-
+使用路由器的 UPNP 轉發埠 
 
 Full Pre-Write
-
+完整預寫入文件
 
 Fully independent property windows
-
+完整獨立屬性視窗
 
 General
 一般
@@ -4272,7 +4272,7 @@ Gi
 
 
 HTML Templates
-
+HTML 模板
 
 HTTP
 
@@ -4281,91 +4281,91 @@ Hidden
 隱藏
 
 Hide In System Tray
-
+隱藏至系統欄
 
 Horizontal Text
-
+水平文字
 
 If you have a firewall or broadband router attached to your system, you may want to use port-forwarding for optimal performance.
 
 
 Import Configuration From File
-
+從檔案導入設定
 
 Import/Export
-
+導入/導出
 
 Include block activity
-
+包含塊活動
 
 Include local in swarm bitfield and availability display
 
 
 Include status changes
-
+包含狀態改變
 
 Include warnings
-
+包含警告
 
 Incoming Peer Connection Encryption
-
+下載 Peer 連線加密
 
 Incoming Peer Connection Protocol
-
+下載 Peer 連線協議
 
 Incoming Peers
-
+下載 Peers
 
 Incoming Ports
-
+下載埠號
 
 Incomplete Piece Storage Location
-
+非完整儲存位置
 
 Incomplete file name format
-
+檔案名稱格式不完整
 
 Individual tracker options
-
+單獨的 tracker 選項
 
 Initial
-
+開頭字母
 
 Interface IPs For Incoming Web Connections
 
 
 It gives a more consistant look with other programs.
-它提供了與其他程序更一致的外觀。
+它提供了與其他程式更一致的外觀。
 
 It is more suitable for use in a dark environment and is easy on the eyes.
 
 
 Item
-
+項目
 
 KB blocks
-
+KB 塊
 
 Ki
 
 
 Largest Unit
-
+最大單位
 
 Last
-
+最後
 
 Level
-
+等級
 
 Light Background
 淺色背景
 
 Load Preset
-
+載入預設
 
 Load default color schemes or custom
-
+載入預設顏色方案或客製化
 
 Local IPv4 address or interface
 
@@ -4380,46 +4380,46 @@ Location shortcuts in transfer context menu
 
 
 Locations
-
+位置
 
 Log detailed tracker messages
 
 
 Log disk read-cache details
-
+紀錄硬碟讀快取詳細資訊
 
 Login
-
+登入
 
 MB blocks
-
+MB 塊
 
 Magnet link formats for transfer popup menu
-
+磁力連結 彈出選單
 
 Magnet-links eligible for auto-download
-
+磁力連結可自動下載
 
 Main log backscroll size
-
+主日誌顯示行數
 
 Main window close button action
-
+主事窗關閉操作
 
 Main window minimize button action
-
+主視窗最小化操作
 
 Maximum concurrent outgoing TCP connection attempts
-
+最大 TCP 同時上傳連接嘗試次數
 
 Maximum concurrent outgoing UDP connection attempts
-
+最大 UDP 同時上傳連接嘗試次數
 
 Maximum peer connections per seed/download
-
+每個做種/下載最大 peer 連結數
 
 Maximum simultaneous searches
-
+最大同時搜尋數
 
 Menus
 選單
@@ -4428,112 +4428,112 @@ Mi
 
 
 Minimize To Taskbar
-
+最小化到工作欄
 
 Month
-
+月
 
 Move individual files immediately upon completion
-
+每當文件完成時立即移動
 
 Multi-tracker announce mode
-
+Multi-tracker announce 模式
 
 NAT-PMP
 
 
 NAT-PMP to forward port on router
-
+NAT-PMP 到路由器的轉發埠
 
 New Feed Default Processing Options
-
+新源預設選項
 
 New Filter Default Options
-
+新過濾器預設選項
 
 New Scheduler Task Default Options
-
+新排程預設選項
 
 No Proxy
-
+無 Proxy
 
 Non-default settings may slow your download performance significantly or cause other serious problems.
-
+非預設設定可能導致下載變慢或導致其他嚴重問題。
 
 Numbers
-
+數字
 
 Numbers In Charts
-
+圖表中的數字
 
 OS Default Colors
 系統預設顏色
 
 Omit
-
+忽略
 
 On some monitors this is easier to read.
 在某些螢幕上，更容易閱讀。
 
 Opens a decentralized sharing channel
-
+開啟去中心化分享頻道
 
 Outgoing Peer Connection Encryption
-
+上傳 Peer 連線加密
 
 Outgoing Peer Connection Protocol
-
+上傳 Peer 連線協議
 
 Outgoing Peers
-
+上傳 Peers
 
 Output Formatting
 輸出格式
 
 Password
-
+密碼
 
 Peer B/s Display
-
+顯示 Peer B/s 
 
 Peer In/Out Bytes Display
-
+顯示 Peer 進/出 Bytes
 
 Peer connect/login timeouts
-
+Peer 連線/登入 超時
 
 Peer read caching
-
+Peer 讀取緩存
 
 Placeholders
-
+佔位符號
 
 Predictive
-
+預測
 
 Press F1 for more information.
-
+按下 F1 獲得更多詳細資訊
 
 Prompt
-
+提示
 
 Prompt User To Hide/Exit
-
+提示使用者影藏/退出
 
 Proxy
 
 
 Queuing
-
+排隊
 
 Raised Unit Decimal Places
 
 
 Random port interval
-
+隨機埠號間隔
 
 Random port range
-
+隨機埠號範圍
 
 Really Simple Syndication
 
